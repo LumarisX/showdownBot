@@ -1,0 +1,1037 @@
+No,Name,Dex. No.,Type,HP,Atk,Def,Sp. Atk,Sp. Def,Spd,Total,Abilities,Banned,Viable,Mythical,Restricted,SWSH Dex,Forms,Tiering
+1,Bulbasaur,1,Grass Poison,45,49,49,65,65,45,318,Overgrow  Chlorophyll,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+2,Ivysaur,2,Grass Poison,60,62,63,80,80,60,405,Overgrow  Chlorophyll,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,
+3,Venusaur-Mega,3,Grass Poison,80,100,123,122,120,80,625,Thick Fat,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,12 points
+4,Venusaur,3,Grass Poison,80,82,83,100,100,80,525,Overgrow  Chlorophyll,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+5,Charmander,4,Fire,39,52,43,60,50,65,309,Blaze  Solar Power,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+6,Charmeleon,5,Fire,58,64,58,80,65,80,405,Blaze  Solar Power,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+7,Charizard-Mega Y,6,Fire Flying,78,104,78,159,115,100,634,Drought,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,
+8,Charizard-Mega X,6,Fire Dragon,78,130,111,130,85,100,634,Tough Claws,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,
+9,Charizard,6,Fire Flying,78,84,78,109,85,100,534,Blaze  Solar Power,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+10,Squirtle,7,Water,44,48,65,50,64,43,314,Torrent  Rain Dish,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+11,Wartortle,8,Water,59,63,80,65,80,58,405,Torrent  Rain Dish,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+12,Blastoise-Mega,9,Water,79,103,120,135,115,78,630,Mega Launcher,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,
+13,Blastoise,9,Water,79,83,100,85,105,78,530,Torrent  Rain Dish,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+14,Caterpie,10,Bug,45,30,35,20,20,45,195,Shield Dust  Run Away,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+15,Metapod,11,Bug,50,20,55,25,25,30,205,Shed Skin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+16,Butterfree,12,Bug Flying,60,45,50,90,80,70,395,Compound Eyes  Tinted Lens,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+17,Weedle,13,Bug Poison,40,35,30,20,20,50,195,Shield Dust  Run Away,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+18,Kakuna,14,Bug Poison,45,25,50,25,25,35,205,Shed Skin,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+19,Beedrill-Mega,15,Bug Poison,65,150,40,15,80,145,495,Adaptability,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,11 points
+20,Beedrill,15,Bug Poison,65,90,40,45,80,75,395,Swarm  Sniper,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+21,Pidgey,16,Normal Flying,40,45,40,35,35,56,251,Keen Eye Tangled Feet Big Pecks,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+22,Pidgeotto,17,Normal Flying,63,60,55,50,50,71,349,Keen Eye Tangled Feet Big Pecks,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+23,Pidgeot-Mega,18,Normal Flying,83,80,80,135,80,121,579,No Guard,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,11 points
+24,Pidgeot,18,Normal Flying,83,80,75,70,70,101,479,Keen Eye Tangled Feet Big Pecks,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+25,Rattata,19,Normal,30,56,35,25,35,72,253,Run Away Guts Hustle,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+26,Rattata-Alola,19,Normal Dark,30,56,35,25,35,72,253,Gluttony Hustle Thick Fat,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,
+27,Raticate,20,Normal,55,81,60,50,70,97,413,Run Away Guts Hustle,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+28,Raticate-Alola,20,Normal Dark,75,71,70,40,80,77,413,Gluttony Hustle Thick Fat,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,1 point
+29,Spearow,21,Normal Flying,40,60,30,31,31,70,262,Keen Eye  Sniper,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+30,Fearow,22,Normal Flying,65,90,65,61,61,100,442,Keen Eye  Sniper,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+31,Ekans,23,Poison,35,60,44,40,54,55,288,Intimidate Shed Skin Unnerve,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+32,Arbok,24,Poison,60,95,69,65,79,80,448,Intimidate Shed Skin Unnerve,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+33,Pikachu,25,Electric,35,55,40,50,50,90,320,Static  Lightning Rod,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,
+34,Raichu-Alola,26,Electric Psychic,60,85,50,95,85,110,485,Surge Surfer,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,5 points
+35,Raichu,26,Electric,60,90,55,90,80,110,485,Static  Lightning Rod,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+36,Sandshrew-Alola,27,Ice Steel,50,75,90,10,35,40,300,Snow Cloak  Slush Rush,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+37,Sandshrew,27,Ground,50,75,85,20,30,40,300,Sand Veil  Sand Rush,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+38,Sandslash,28,Ground,75,100,110,45,55,65,450,Sand Veil  Sand Rush,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+39,Sandslash-Alola,28,Ice Steel,75,100,120,25,65,65,450,Snow Cloak  Slush Rush,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,3 points
+40,Nidoran F,29,Poison,55,47,52,40,40,41,275,Poison Point Rivalry Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+41,Nidorina,30,Poison,70,62,67,55,55,56,365,Poison Point Rivalry Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+42,Nidoqueen,31,Poison Ground,90,92,87,75,85,76,505,Poison Point Rivalry Sheer Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+43,Nidoran M,32,Poison,46,57,40,40,40,50,273,Poison Point Rivalry Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+44,Nidorino,33,Poison,61,72,57,55,55,65,365,Poison Point Rivalry Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+45,Nidoking,34,Poison Ground,81,102,77,85,75,85,505,Poison Point Rivalry Sheer Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+46,Clefairy,35,Fairy,70,45,48,60,65,35,323,Cute Charm Magic Guard Friend Guard,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+47,Clefable,36,Fairy,95,70,73,95,90,60,483,Cute Charm Magic Guard Friend Guard,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,15 points
+48,Vulpix,37,Fire,38,41,40,50,65,65,299,Flash Fire  Drought,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+49,Vulpix-Alola,37,Ice,38,41,40,50,65,65,299,Snow Cloak  Snow Warning,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+50,Ninetales-Alola,38,Ice Fairy,73,67,75,81,100,109,505,Snow Cloak  Snow Warning,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,9 points
+51,Ninetales,38,Fire,73,76,75,81,100,100,505,Flash Fire  Drought,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+52,Jigglypuff,39,Normal Fairy,115,45,20,45,25,20,270,Cute Charm Competitive Friend Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+53,Wigglytuff,40,Normal Fairy,140,70,45,85,50,45,435,Cute Charm Competitive Frisk,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+54,Zubat,41,Poison Flying,40,45,35,30,40,55,245,Inner Focus  Infiltrator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+55,Golbat,42,Poison Flying,75,80,70,65,75,90,455,Inner Focus  Infiltrator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,4 points
+56,Oddish,43,Grass Poison,45,50,55,75,65,30,320,Chlorophyll  Run Away,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+57,Gloom,44,Grass Poison,60,65,70,85,75,40,395,Chlorophyll  Stench,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+58,Vileplume,45,Grass Poison,75,80,85,100,90,50,480,Chlorophyll  Effect Spore,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+59,Paras,46,Bug Grass,35,70,55,45,55,25,285,Effect Spore Dry Skin Damp,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+60,Parasect,47,Bug Grass,60,95,80,60,80,30,405,Effect Spore Dry Skin Damp,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+61,Venonat,48,Bug Poison,60,55,50,40,55,45,305,Compound Eyes Tinted Lens Run Away,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+62,Venomoth,49,Bug Poison,70,65,60,90,75,90,450,Shield Dust Tinted Lens Wonder Skin,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,6 points
+63,Diglett,50,Ground,10,55,25,35,45,95,265,Sand Veil Arena Trap Sand Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+64,Diglett-Alola,50,Ground Steel,10,55,30,35,45,90,265,Sand Veil Tangling Hair Sand Force,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+65,Dugtrio-Alola,51,Ground Steel,35,100,50,50,70,120,425,Sand Veil Tangling Hair Sand Force,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,2 points
+66,Dugtrio,51,Ground,35,80,50,50,70,120,405,Sand Veil Arena Trap Sand Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+67,Meowth-Alola,52,Dark,40,35,35,50,40,90,290,Pickup Technician Rattled,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+68,Meowth,52,Normal,40,45,35,40,40,90,290,Pickup Technician Unnerve,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+69,Meowth-Galar,52,Steel,50,65,55,40,40,40,290,Pickup Tough Claws Unnerve,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+70,Persian-Alola,53,Dark,65,60,60,75,65,115,440,Pickup Technician Rattled,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,5 points
+71,Persian,53,Normal,65,70,60,65,65,115,440,Pickup Technician Unnerve,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+72,Psyduck,54,Water,50,52,48,65,50,55,320,Damp Cloud Nine Swift Swim,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+73,Golduck,55,Water,80,82,78,95,80,85,500,Damp Cloud Nine Swift Swim,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+74,Mankey,56,Fighting,40,80,35,35,45,70,305,Vital Spirit Anger Point Defiant,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+75,Primeape,57,Fighting,65,105,60,60,70,95,455,Vital Spirit Anger Point Defiant,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,3 points
+76,Growlithe,58,Fire,55,70,45,70,50,60,350,Intimidate Flash Fire Justified,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+77,Arcanine,59,Fire,90,110,80,100,80,95,555,Intimidate Flash Fire Justified,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+78,Poliwag,60,Water,40,50,40,40,40,90,300,Water Absorb Damp Swift Swim,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+79,Poliwhirl,61,Water,65,65,65,50,50,90,385,Water Absorb Damp Swift Swim,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+80,Poliwrath,62,Water Fighting,90,95,95,70,90,70,510,Water Absorb Damp Swift Swim,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+81,Abra,63,Psychic,25,20,15,105,55,90,310,Synchronize Inner Focus Magic Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+82,Kadabra,64,Psychic,40,35,30,120,70,105,400,Synchronize Inner Focus Magic Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+83,Alakazam-Mega,65,Psychic,55,50,65,175,105,150,600,Trace,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+84,Alakazam,65,Psychic,55,50,45,135,95,120,500,Synchronize Inner Focus Magic Guard,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+85,Machop,66,Fighting,70,80,50,35,35,35,305,Guts No Guard Steadfast,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+86,Machoke,67,Fighting,80,100,70,50,60,45,405,Guts No Guard Steadfast,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+87,Machamp,68,Fighting,90,130,80,65,85,65,515,Guts No Guard Steadfast,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+88,Bellsprout,69,Grass Poison,50,75,35,70,30,40,300,Chlorophyll  Gluttony,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+89,Weepinbell,70,Grass Poison,65,90,50,85,45,55,390,Chlorophyll  Gluttony,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+90,Victreebel,71,Grass Poison,80,105,65,100,70,70,490,Chlorophyll  Gluttony,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+91,Tentacool,72,Water Poison,40,40,35,50,100,70,335,Clear Body Liquid Ooze Rain Dish,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+92,Tentacruel,73,Water Poison,80,75,65,80,120,100,520,Clear Body Liquid Ooze Rain Dish,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+93,Geodude-Alola,74,Rock Electric,40,80,100,30,30,20,300,Magnet Pull Sturdy Galvanize,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,
+94,Geodude,74,Rock Ground,40,80,100,30,30,20,300,Rock Head Sturdy Sand Veil,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+95,Graveler-Alola,75,Rock Electric,55,95,115,45,45,35,390,Magnet Pull Sturdy Galvanize,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,
+96,Graveler,75,Rock Ground,55,95,115,45,45,35,390,Rock Head Sturdy Sand Veil,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+97,Golem,76,Rock Ground,80,120,130,55,65,45,495,Rock Head Sturdy Sand Veil,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+98,Golem-Alola,76,Rock Electric,80,120,130,55,65,45,495,Magnet Pull Sturdy Galvanize,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,2 points
+99,Ponyta,77,Fire,50,85,55,65,65,90,410,Run Away Flash Fire Flame Body,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+100,Ponyta-Galar,77,Psychic,50,85,55,65,65,90,410,Run Away Pastel Veil Anticipation,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+101,Rapidash-Galar,78,Psychic Fairy,65,100,70,80,80,105,500,Run Away Pastel Veil Anticipation,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,2 points
+102,Rapidash,78,Fire,65,100,70,80,80,105,500,Run Away Flash Fire Flame Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+103,Slowpoke,79,Water Psychic,90,65,65,40,40,15,315,Oblivious Own Tempo Regenerator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+104,Slowpoke-Galar,79,Psychic,90,65,65,40,40,15,315,Gluttony Own Tempo Regenerator,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+105,Slowbro-Mega,80,Water Psychic,95,75,180,130,80,30,590,Shell Armor,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,12 points
+106,Slowbro-Galar,80,Poison Psychic,95,100,95,100,70,30,490,Quick Draw Own Tempo Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,7 points
+107,Slowbro,80,Water Psychic,95,75,110,100,80,30,490,Oblivious Own Tempo Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+108,Magnemite,81,Electric Steel,25,35,70,95,55,45,325,Magnet Pull Sturdy Analytic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+109,Magneton,82,Electric Steel,50,60,95,120,70,70,465,Magnet Pull Sturdy Analytic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,5 points
+110,Farfetch'd-Galar,83,Fighting,52,95,55,58,62,55,377,Steadfast  Scrappy,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+111,Farfetch'd,83,Normal Flying,52,90,55,58,62,60,377,Keen Eye Inner Focus Defiant,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+112,Doduo,84,Normal Flying,35,85,45,35,35,75,310,Run Away Early Bird Tangled Feet,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+113,Dodrio,85,Normal Flying,60,110,70,60,60,110,470,Run Away Early Bird Tangled Feet,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+114,Seel,86,Water,65,45,55,45,70,45,325,Thick Fat Hydration Ice Body,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+115,Dewgong,87,Water Ice,90,70,80,70,95,70,475,Thick Fat Hydration Ice Body,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+116,Grimer,88,Poison,80,80,50,40,50,25,325,Stench Sticky Hold Poison Touch,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+117,Grimer-Alola,88,Poison Dark,80,80,50,40,50,25,325,Poison Touch Gluttony Power of Alchemy,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,
+118,Muk,89,Poison,105,105,75,65,100,50,500,Stench Sticky Hold Poison Touch,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+119,Muk-Alola,89,Poison Dark,105,105,75,65,100,50,500,Poison Touch Gluttony Power of Alchemy,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,9 points
+120,Shellder,90,Water,30,65,100,45,25,40,305,Shell Armor Skill Link Overcoat,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+121,Cloyster,91,Water Ice,50,95,180,85,45,70,525,Shell Armor Skill Link Overcoat,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+122,Gastly,92,Ghost Poison,30,35,30,100,35,80,310,Levitate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+123,Haunter,93,Ghost Poison,45,50,45,115,55,95,405,Levitate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+124,Gengar-Mega,94,Ghost Poison,60,65,80,170,95,130,600,Shadow Tag,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+125,Gengar,94,Ghost Poison,60,65,60,130,75,110,500,Cursed Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+126,Onix,95,Rock Ground,35,45,160,30,45,70,385,Rock Head Sturdy Weak Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+127,Drowzee,96,Psychic,60,48,45,43,90,42,328,Insomnia Forewarn Inner Focus,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+128,Hypno,97,Psychic,85,73,70,73,115,67,483,Insomnia Forewarn Inner Focus,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+129,Krabby,98,Water,30,105,90,25,25,50,325,Hyper Cutter Shell Armor Sheer Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+130,Kingler,99,Water,55,130,115,50,50,75,475,Hyper Cutter Shell Armor Sheer Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+131,Voltorb,100,Electric,40,30,50,55,55,100,330,Soundproof Static Aftermath,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+132,Electrode,101,Electric,60,50,70,80,80,150,490,Soundproof Static Aftermath,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+133,Exeggcute,102,Grass Psychic,60,40,80,60,45,40,325,Chlorophyll  Harvest,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+134,Exeggutor,103,Grass Psychic,95,95,85,125,75,55,530,Chlorophyll  Harvest,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+135,Exeggutor-Alola,103,Grass Dragon,95,105,85,125,75,45,530,Frisk  Harvest,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,2 points
+136,Cubone,104,Ground,50,50,95,40,50,35,320,Rock Head Lightning Rod Battle Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+137,Marowak,105,Ground,60,80,110,50,80,45,425,Rock Head Lightning Rod Battle Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+138,Marowak-Alola,105,Ghost Fire,60,80,110,50,80,45,425,Cursed Body Lightning Rod Rock Head,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,8 points
+139,Hitmonlee,106,Fighting,50,120,53,35,110,87,455,Limber Reckless Unburden,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+140,Hitmonchan,107,Fighting,50,105,79,35,110,76,455,Keen Eye Iron Fist Inner Focus,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+141,Lickitung,108,Normal,90,55,75,60,75,30,385,Own Tempo Oblivious Cloud Nine,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+142,Koffing,109,Poison,40,65,95,60,45,35,340,Levitate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+143,Weezing-Galar,110,Poison Fairy,65,90,120,85,70,60,490,Levitate Neutralizing Gas Misty Surge,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,10 points
+144,Weezing,110,Poison,65,90,120,85,70,60,490,Levitate Neutralizing Gas Stench,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+145,Rhyhorn,111,Ground Rock,80,85,95,30,30,25,345,Lightning Rod Rock Head Reckless,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+146,Rhydon,112,Ground Rock,105,130,120,45,45,40,485,Lightning Rod Rock Head Reckless,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,3 points
+147,Chansey,113,Normal,250,5,5,35,105,50,450,Natural Cure Serene Grace Healer,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+148,Tangela,114,Grass,65,55,115,100,40,60,435,Chlorophyll Leaf Guard Regenerator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,4 points
+149,Kangaskhan-Mega,115,Normal,105,125,100,60,100,100,590,Parental Bond,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,
+150,Kangaskhan,115,Normal,105,95,80,40,80,90,490,Early Bird Scrappy Inner Focus,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+151,Horsea,116,Water,30,40,70,70,25,60,295,Swift Swim Sniper Damp,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+152,Seadra,117,Water,55,65,95,95,45,85,440,Poison Point Sniper Damp,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+153,Goldeen,118,Water,45,67,60,35,50,63,320,Swift Swim Water Veil Lightning Rod,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+154,Seaking,119,Water,80,92,65,65,80,68,450,Swift Swim Water Veil Lightning Rod,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+155,Staryu,120,Water,30,45,55,70,55,85,340,Illuminate Natural Cure Analytic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+156,Starmie,121,Water Psychic,60,75,85,100,85,115,520,Illuminate Natural Cure Analytic,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+157,Mr. Mime,122,Psychic Fairy,40,45,65,100,120,90,460,Soundproof Filter Technician,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+158,Mr. Mime-Galar,122,Ice Psychic,50,65,65,90,90,100,460,Vital Spirit Screen Cleaner Ice Body,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,2 points
+159,Scyther,123,Bug Flying,70,110,80,55,80,105,500,Swarm Technician Steadfast,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,5 points
+160,Jynx,124,Ice Psychic,65,50,35,115,95,95,455,Oblivious Forewarn Dry Skin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+161,Electabuzz,125,Electric,65,83,57,95,85,105,490,Static  Vital Spirit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+162,Magmar,126,Fire,65,95,57,100,85,93,495,Flame Body  Vital Spirit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+163,Pinsir-Mega,127,Bug Flying,65,155,120,65,90,105,600,Aerilate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,10 points
+164,Pinsir,127,Bug,65,125,100,55,70,85,500,Hyper Cutter Mold Breaker Moxie,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+165,Tauros,128,Normal,75,100,95,40,70,110,490,Intimidate Anger Point Sheer Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+166,Magikarp,129,Water,20,10,55,15,20,80,200,Swift Swim  Rattled,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+167,Gyarados-Mega,130,Water Dark,95,155,109,70,130,81,640,Mold Breaker,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,11 points
+168,Gyarados,130,Water Flying,95,125,79,60,100,81,540,Intimidate  Moxie,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+169,Lapras,131,Water Ice,130,85,80,85,95,60,535,Water Absorb Shell Armor Hydration,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+170,Ditto,132,Normal,48,48,48,48,48,48,288,Limber  Imposter,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,5 points
+171,Eevee,133,Normal,55,55,50,45,65,55,325,Run Away Adaptability Anticipation,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+172,Vaporeon,134,Water,130,65,60,110,95,65,525,Water Absorb  Hydration,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+173,Jolteon,135,Electric,65,65,60,110,95,130,525,Volt Absorb  Quick Feet,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+174,Flareon,136,Fire,65,130,60,95,110,65,525,Flash Fire  Guts,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+175,Porygon,137,Normal,65,60,70,85,75,40,395,Trace Download Analytic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+176,Omanyte,138,Rock Water,35,40,100,90,55,35,355,Swift Swim Shell Armor Weak Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+177,Omastar,139,Rock Water,70,60,125,115,70,55,495,Swift Swim Shell Armor Weak Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+178,Kabuto,140,Rock Water,30,80,90,55,45,55,355,Swift Swim Battle Armor Weak Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+179,Kabutops,141,Rock Water,60,115,105,65,70,80,495,Swift Swim Battle Armor Weak Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+180,Aerodactyl-Mega,142,Rock Flying,80,135,85,70,95,150,615,Tough Claws,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,15 points
+181,Aerodactyl,142,Rock Flying,80,105,65,60,75,130,515,Rock Head Pressure Unnerve,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+182,Snorlax,143,Normal,160,110,65,65,110,30,540,Immunity Thick Fat Gluttony,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+183,Articuno-Galar,144,Psychic Flying,90,85,85,125,100,95,580,Competitive,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,5 points
+184,Articuno,144,Ice Flying,90,85,100,95,125,85,580,Pressure  Snow Cloak,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+185,Zapdos,145,Electric Flying,90,90,85,125,90,100,580,Pressure  Static,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,16 points
+186,Zapdos-Galar,145,Fighting Flying,90,125,90,85,90,100,580,Defiant,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,14 points
+187,Moltres,146,Fire Flying,90,100,90,125,85,90,580,Pressure  Flame Body,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+188,Moltres-Galar,146,Dark Flying,90,85,90,100,125,90,580,Berserk,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,7 points
+189,Dratini,147,Dragon,41,64,45,50,50,50,300,Shed Skin  Marvel Scale,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+190,Dragonair,148,Dragon,61,84,65,70,70,70,420,Shed Skin  Marvel Scale,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+191,Dragonite,149,Dragon Flying,91,134,95,100,100,80,600,Inner Focus  Multiscale,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+192,Mewtwo,150,Psychic,106,110,90,154,90,130,680,Pressure  Unnerve,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+193,Mewtwo-Mega Y,150,Psychic,106,150,70,194,120,140,780,Insomnia,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,
+194,Mewtwo-Mega X,150,Psychic Fighting,106,190,100,154,100,130,780,Steadfast,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,
+195,Mew,151,Psychic,100,100,100,100,100,100,600,Synchronize,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,17 points
+196,Chikorita,152,Grass,45,49,65,49,65,45,318,Overgrow  Leaf Guard,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+197,Bayleef,153,Grass,60,62,80,63,80,60,405,Overgrow  Leaf Guard,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+198,Meganium,154,Grass,80,82,100,83,100,80,525,Overgrow  Leaf Guard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+199,Cyndaquil,155,Fire,39,52,43,60,50,65,309,Blaze  Flash Fire,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+200,Quilava,156,Fire,58,64,58,80,65,80,405,Blaze  Flash Fire,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+201,Typhlosion,157,Fire,78,84,78,109,85,100,534,Blaze  Flash Fire,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,3 points
+202,Totodile,158,Water,50,65,64,44,48,43,314,Torrent  Sheer Force,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+203,Croconaw,159,Water,65,80,80,59,63,58,405,Torrent  Sheer Force,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+204,Feraligatr,160,Water,85,105,100,79,83,78,530,Torrent  Sheer Force,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,8 points
+205,Sentret,161,Normal,35,46,34,35,45,20,215,Run Away Keen Eye Frisk,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+206,Furret,162,Normal,85,76,64,45,55,90,415,Run Away Keen Eye Frisk,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+207,Hoothoot,163,Normal Flying,60,30,30,36,56,50,262,Insomnia Keen Eye Tinted Lens,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+208,Noctowl,164,Normal Flying,100,50,50,86,96,70,452,Insomnia Keen Eye Tinted Lens,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+209,Ledyba,165,Bug Flying,40,20,30,40,80,55,265,Swarm Early Bird Rattled,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+210,Ledian,166,Bug Flying,55,35,50,55,110,85,390,Swarm Early Bird Iron Fist,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+211,Spinarak,167,Bug Poison,40,60,40,40,40,30,250,Swarm Insomnia Sniper,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+212,Ariados,168,Bug Poison,70,90,70,60,70,40,400,Swarm Insomnia Sniper,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+213,Crobat,169,Poison Flying,85,90,80,70,80,130,535,Inner Focus  Infiltrator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+214,Chinchou,170,Water Electric,75,38,38,56,56,67,330,Volt Absorb Illuminate Water Absorb,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+215,Lanturn,171,Water Electric,125,58,58,76,76,67,460,Volt Absorb Illuminate Water Absorb,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+216,Pichu,172,Electric,20,40,15,35,35,60,205,Static  Lightning Rod,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+217,Cleffa,173,Fairy,50,25,28,45,55,15,218,Cute Charm Magic Guard Friend Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+218,Igglybuff,174,Normal Fairy,90,30,15,40,20,15,210,Cute Charm Competitive Friend Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+219,Togepi,175,Fairy,35,20,65,40,65,20,245,Hustle Serene Grace Super Luck,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+220,Togetic,176,Fairy Flying,55,40,85,80,105,40,405,Hustle Serene Grace Super Luck,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+221,Natu,177,Psychic Flying,40,50,45,70,45,70,320,Synchronize Early Bird Magic Bounce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+222,Xatu,178,Psychic Flying,65,75,70,95,70,95,470,Synchronize Early Bird Magic Bounce,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+223,Mareep,179,Electric,55,40,40,65,45,35,280,Static  Plus,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+224,Flaaffy,180,Electric,70,55,55,80,60,45,365,Static  Plus,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+225,Ampharos,181,Electric,90,75,85,115,90,55,510,Static  Plus,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+226,Ampharos-Mega,181,Electric Dragon,90,95,105,165,110,45,610,Mold Breaker,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,4 points
+227,Bellossom,182,Grass,75,80,95,90,100,50,490,Chlorophyll  Healer,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+228,Marill,183,Water Fairy,70,20,50,20,50,40,250,Thick Fat Huge Power Sap Sipper,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+229,Azumarill,184,Water Fairy,100,50,80,60,80,50,420,Thick Fat Huge Power Sap Sipper,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+230,Sudowoodo,185,Rock,70,100,115,30,65,30,410,Sturdy Rock Head Rattled,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+231,Politoed,186,Water,90,75,75,90,100,70,500,Water Absorb Damp Drizzle,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+232,Hoppip,187,Grass Flying,35,35,40,35,55,50,250,Chlorophyll Leaf Guard Infiltrator,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+233,Skiploom,188,Grass Flying,55,45,50,45,65,80,340,Chlorophyll Leaf Guard Infiltrator,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+234,Jumpluff,189,Grass Flying,75,55,70,55,95,110,460,Chlorophyll Leaf Guard Infiltrator,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+235,Aipom,190,Normal,55,70,55,40,55,85,360,Run Away Pickup Skill Link,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,
+236,Sunkern,191,Grass,30,30,30,30,30,30,180,Chlorophyll Solar Power Early Bird,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+237,Sunflora,192,Grass,75,75,55,105,85,30,425,Chlorophyll Solar Power Early Bird,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+238,Yanma,193,Bug Flying,65,65,45,75,45,95,390,Speed Boost Compound Eyes Frisk,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+239,Wooper,194,Water Ground,55,45,45,25,25,15,210,Damp Water Absorb Unaware,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+240,Quagsire,195,Water Ground,95,85,85,65,65,35,430,Damp Water Absorb Unaware,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+241,Espeon,196,Psychic,65,65,60,130,95,110,525,Synchronize  Magic Bounce,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+242,Umbreon,197,Dark,95,65,110,60,130,65,525,Synchronize  Inner Focus,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+243,Murkrow,198,Dark Flying,60,85,42,85,42,91,405,Insomnia Super Luck Prankster,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+244,Slowking-Galar,199,Poison Psychic,95,65,80,110,110,30,490,Curious Medicine Own Tempo Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,14 points
+245,Slowking,199,Water Psychic,95,75,80,100,110,30,490,Oblivious Own Tempo Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+246,Misdreavus,200,Ghost,60,60,60,85,85,85,435,Levitate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,1 point
+247,Unown,201,Psychic,48,72,48,72,48,48,336,Levitate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+248,Wobbuffet,202,Psychic,190,33,58,33,58,33,405,Shadow Tag  Telepathy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+249,Girafarig,203,Normal Psychic,70,80,65,90,65,85,455,Inner Focus Early Bird Sap Sipper,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+250,Pineco,204,Bug,50,65,90,35,35,15,290,Sturdy  Overcoat,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+251,Forretress,205,Bug Steel,75,90,140,60,60,40,465,Sturdy  Overcoat,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,5 points
+252,Dunsparce,206,Normal,100,70,70,65,65,45,415,Serene Grace Run Away Rattled,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+253,Gligar,207,Ground Flying,65,75,105,35,65,85,430,Hyper Cutter Sand Veil Immunity,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,8 points
+254,Steelix-Mega,208,Steel Ground,75,125,230,55,95,30,610,Sand Force,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,6 points
+255,Steelix,208,Steel Ground,75,85,200,55,65,30,510,Rock Head Sturdy Sheer Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+256,Snubbull,209,Fairy,60,80,50,40,40,30,300,Intimidate Run Away Rattled,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+257,Granbull,210,Fairy,90,120,75,60,60,45,450,Intimidate Quick Feet Rattled,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,4 points
+258,Qwilfish,211,Water Poison,65,95,75,55,55,85,430,Poison Point Swift Swim Intimidate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+259,Scizor-Mega,212,Bug Steel,70,150,140,65,100,75,600,Technician,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+260,Scizor,212,Bug Steel,70,130,100,55,80,65,500,Swarm Technician Light Metal,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+261,Shuckle,213,Bug Rock,20,10,230,10,230,5,505,Sturdy Gluttony Contrary,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+262,Heracross-Mega,214,Bug Fighting,80,185,115,40,105,75,600,Skill Link,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,12 points
+263,Heracross,214,Bug Fighting,80,125,75,40,95,85,500,Swarm Guts Moxie,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+264,Sneasel,215,Dark Ice,55,95,55,35,75,115,430,Inner Focus Keen Eye Pickpocket,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+265,Teddiursa,216,Normal,60,80,50,50,50,40,330,Pickup Quick Feet Honey Gather,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+266,Ursaring,217,Normal,90,130,75,75,75,55,500,Guts Quick Feet Unnerve,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+267,Slugma,218,Fire,40,40,40,70,40,20,250,Magma Armor Flame Body Weak Armor,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+268,Magcargo,219,Fire Rock,50,50,120,80,80,30,410,Magma Armor Flame Body Weak Armor,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+269,Swinub,220,Ice Ground,50,50,40,30,30,50,250,Oblivious Snow Cloak Thick Fat,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+270,Piloswine,221,Ice Ground,100,100,80,60,60,50,450,Oblivious Snow Cloak Thick Fat,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,7 points
+271,Corsola,222,Water Rock,65,55,95,65,95,35,410,Hustle Natural Cure Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+272,Corsola-Galar,222,Ghost,60,55,100,65,100,30,410,Weak Armor  Cursed Body,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,5 points
+273,Remoraid,223,Water,35,65,35,65,35,65,300,Hustle Sniper Moody,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+274,Octillery,224,Water,75,105,75,105,75,45,480,Hustle Sniper Moody,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+275,Delibird,225,Ice Flying,45,55,45,65,45,75,330,Vital Spirit Hustle Insomnia,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+276,Mantine,226,Water Flying,85,40,70,80,140,70,485,Swift Swim Water Absorb Water Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+277,Skarmory,227,Steel Flying,65,80,140,40,70,70,465,Keen Eye Sturdy Weak Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+278,Houndour,228,Dark Fire,45,60,30,80,50,65,330,Early Bird Flash Fire Unnerve,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+279,Houndoom-Mega,229,Dark Fire,75,90,90,140,90,115,600,Solar Power,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,8 points
+280,Houndoom,229,Dark Fire,75,90,50,110,80,95,500,Early Bird Flash Fire Unnerve,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+281,Kingdra,230,Water Dragon,75,95,95,95,95,85,540,Swift Swim Sniper Damp,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+282,Phanpy,231,Ground,90,60,60,40,40,40,330,Pickup  Sand Veil,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+283,Donphan,232,Ground,90,120,120,60,60,50,500,Sturdy  Sand Veil,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,9 points
+284,Porygon2,233,Normal,85,80,90,105,95,60,515,Trace Download Analytic,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+285,Stantler,234,Normal,73,95,62,85,65,85,465,Intimidate Frisk Sap Sipper,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+286,Smeargle,235,Normal,55,20,35,20,45,75,250,Own Tempo Technician Moody,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+287,Tyrogue,236,Fighting,35,35,35,35,35,35,210,Guts Steadfast Vital Spirit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+288,Hitmontop,237,Fighting,50,95,95,35,110,70,455,Intimidate Technician Steadfast,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+289,Smoochum,238,Ice Psychic,45,30,15,85,65,65,305,Oblivious Forewarn Hydration,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+290,Elekid,239,Electric,45,63,37,65,55,95,360,Static  Vital Spirit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+291,Magby,240,Fire,45,75,37,70,55,83,365,Flame Body  Vital Spirit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+292,Miltank,241,Normal,95,80,105,40,70,100,490,Thick Fat Scrappy Sap Sipper,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+293,Blissey,242,Normal,255,10,10,75,135,55,540,Natural Cure Serene Grace Healer,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+294,Raikou,243,Electric,90,85,75,115,100,115,580,Pressure  Inner Focus,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+295,Entei,244,Fire,115,115,85,90,75,100,580,Pressure  Inner Focus,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+296,Suicune,245,Water,100,75,115,90,115,85,580,Pressure  Inner Focus,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+297,Larvitar,246,Rock Ground,50,64,50,45,50,41,300,Guts  Sand Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+298,Pupitar,247,Rock Ground,70,84,70,65,70,51,410,Shed Skin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+299,Tyranitar,248,Rock Dark,100,134,110,95,100,61,600,Sand Stream  Unnerve,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+300,Tyranitar-Mega,248,Rock Dark,100,164,150,95,120,71,700,Sand Stream,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,12 points
+301,Lugia,249,Psychic Flying,106,90,130,90,154,110,680,Pressure  Multiscale,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+302,Ho-Oh,250,Fire Flying,106,130,90,110,154,90,680,Pressure  Regenerator,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+303,Celebi,251,Psychic Grass,100,100,100,100,100,100,600,Natural Cure,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,11 points
+304,Treecko,252,Grass,40,45,35,65,55,70,310,Overgrow  Unburden,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+305,Grovyle,253,Grass,50,65,45,85,65,95,405,Overgrow  Unburden,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+306,Sceptile-Mega,254,Grass Dragon,70,110,75,145,85,145,630,Lightning Rod,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,7 points
+307,Sceptile,254,Grass,70,85,65,105,85,120,530,Overgrow  Unburden,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+308,Torchic,255,Fire,45,60,40,70,50,45,310,Blaze  Speed Boost,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+309,Combusken,256,Fire Fighting,60,85,60,85,60,55,405,Blaze  Speed Boost,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+310,Blaziken-Mega,257,Fire Fighting,80,160,80,130,80,100,630,Speed Boost,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+311,Blaziken,257,Fire Fighting,80,120,70,110,70,80,530,Blaze  Speed Boost,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+312,Mudkip,258,Water,50,70,50,50,50,40,310,Torrent  Damp,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+313,Marshtomp,259,Water Ground,70,85,70,60,70,50,405,Torrent  Damp,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+314,Swampert-Mega,260,Water Ground,100,150,110,95,110,70,635,Swift Swim,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,13 points
+315,Swampert,260,Water Ground,100,110,90,85,90,60,535,Torrent  Damp,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+316,Poochyena,261,Dark,35,55,35,30,30,35,220,Run Away Quick Feet Rattled,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+317,Mightyena,262,Dark,70,90,70,60,60,70,420,Intimidate Quick Feet Moxie,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+318,Zigzagoon,263,Normal,38,30,41,30,41,60,240,Pickup Gluttony Quick Feet,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+319,Zigzagoon-Galar,263,Normal Dark,38,30,41,30,41,60,240,Pickup Gluttony Quick Feet,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+320,Linoone-Galar,264,Normal Dark,78,70,61,50,61,100,420,Pickup Gluttony Quick Feet,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+321,Linoone,264,Normal,78,70,61,50,61,100,420,Pickup Gluttony Quick Feet,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+322,Wurmple,265,Bug,45,45,35,20,30,20,195,Shield Dust  Run Away,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+323,Silcoon,266,Bug,50,35,55,25,25,15,205,Shed Skin,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+324,Beautifly,267,Bug Flying,60,70,50,90,50,65,385,Swarm  Rivalry,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+325,Cascoon,268,Bug,50,35,55,25,25,15,205,Shed Skin,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+326,Dustox,269,Bug Poison,60,50,70,50,90,65,385,Shield Dust  Compound Eyes,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+327,Lotad,270,Water Grass,40,30,30,40,50,30,220,Swift Swim Rain Dish Own Tempo,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+328,Lombre,271,Water Grass,60,50,50,60,70,50,340,Swift Swim Rain Dish Own Tempo,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+329,Ludicolo,272,Water Grass,80,70,70,90,100,70,480,Swift Swim Rain Dish Own Tempo,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+330,Seedot,273,Grass,40,40,50,30,30,30,220,Chlorophyll Early Bird Pickpocket,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+331,Nuzleaf,274,Grass Dark,70,70,40,60,40,60,340,Chlorophyll Early Bird Pickpocket,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+332,Shiftry,275,Grass Dark,90,100,60,90,60,80,480,Chlorophyll Early Bird Pickpocket,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+333,Taillow,276,Normal Flying,40,55,30,30,30,85,270,Guts  Scrappy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+334,Swellow,277,Normal Flying,60,85,60,75,50,125,455,Guts  Scrappy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,9 points
+335,Wingull,278,Water Flying,40,30,30,55,30,85,270,Keen Eye Hydration Rain Dish,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+336,Pelipper,279,Water Flying,60,50,100,85,70,65,430,Keen Eye Drizzle Rain Dish,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+337,Ralts,280,Psychic Fairy,28,25,25,45,35,40,198,Synchronize Trace Telepathy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+338,Kirlia,281,Psychic Fairy,38,35,35,65,55,50,278,Synchronize Trace Telepathy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+339,Gardevoir-Mega,282,Psychic Fairy,68,85,65,165,135,100,618,Pixilate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,15 points
+340,Gardevoir,282,Psychic Fairy,68,65,65,125,115,80,518,Synchronize Trace Telepathy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+341,Surskit,283,Bug Water,40,30,32,50,52,65,269,Swift Swim  Rain Dish,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+342,Masquerain,284,Bug Flying,70,60,62,100,82,80,454,Intimidate  Unnerve,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+343,Shroomish,285,Grass,60,40,60,40,60,35,295,Effect Spore Poison Heal Quick Feet,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+344,Breloom,286,Grass Fighting,60,130,80,60,60,70,460,Effect Spore Poison Heal Technician,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,9 points
+345,Slakoth,287,Normal,60,60,60,35,35,30,280,Truant,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+346,Vigoroth,288,Normal,80,80,80,55,55,90,440,Vital Spirit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,1 point
+347,Slaking,289,Normal,150,160,100,95,65,100,670,Truant,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+348,Nincada,290,Bug Ground,31,45,90,30,30,40,266,Compound Eyes  Run Away,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+349,Ninjask,291,Bug Flying,61,90,45,50,50,160,456,Speed Boost  Infiltrator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+350,Shedinja,292,Bug Ghost,1,90,45,30,30,40,236,Wonder Guard,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+351,Whismur,293,Normal,64,51,23,51,23,28,240,Soundproof  Rattled,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+352,Loudred,294,Normal,84,71,43,71,43,48,360,Soundproof  Scrappy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+353,Exploud,295,Normal,104,91,63,91,63,68,480,Soundproof  Scrappy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+354,Makuhita,296,Fighting,72,60,30,20,30,25,237,Thick Fat Guts Sheer Force,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+355,Hariyama,297,Fighting,144,120,60,40,60,50,474,Thick Fat Guts Sheer Force,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,6 points
+356,Azurill,298,Normal Fairy,50,20,40,20,40,20,190,Thick Fat Huge Power Sap Sipper,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+357,Nosepass,299,Rock,30,45,135,45,90,30,375,Sturdy Magnet Pull Sand Force,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+358,Skitty,300,Normal,50,45,45,35,35,50,260,Cute Charm Normalize Wonder Skin,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+359,Delcatty,301,Normal,70,65,65,55,55,70,380,Cute Charm Normalize Wonder Skin,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+360,Sableye-Mega,302,Ghost Dark,50,85,125,85,115,20,480,Magic Bounce,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,9 points
+361,Sableye,302,Ghost Dark,50,75,75,65,65,50,380,Keen Eye Stall Prankster,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+362,Mawile-Mega,303,Steel Fairy,50,105,125,55,95,50,480,Huge Power,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+363,Mawile,303,Steel Fairy,50,85,85,55,55,50,380,Hyper Cutter Intimidate Sheer Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+364,Aron,304,Steel Rock,50,70,100,40,40,30,330,Sturdy Rock Head Heavy Metal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+365,Lairon,305,Steel Rock,60,90,140,50,50,40,430,Sturdy Rock Head Heavy Metal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+366,Aggron-Mega,306,Steel Rock,70,140,230,60,80,50,630,Filter,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,11 points
+367,Aggron,306,Steel Rock,70,110,180,60,60,50,530,Sturdy Rock Head Heavy Metal,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+368,Meditite,307,Fighting Psychic,30,40,55,40,55,60,280,Pure Power  Telepathy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+369,Medicham-Mega,308,Fighting Psychic,60,100,85,80,85,100,510,Pure Power,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,16 points
+370,Medicham,308,Fighting Psychic,60,60,75,60,75,80,410,Pure Power  Telepathy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,5 points
+371,Electrike,309,Electric,40,45,40,65,40,65,295,Static Lightning Rod Minus,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+372,Manectric-Mega,310,Electric,70,75,80,135,80,135,575,Intimidate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,5 points
+373,Manectric,310,Electric,70,75,60,105,60,105,475,Static Lightning Rod Minus,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+374,Plusle,311,Electric,60,50,40,85,75,95,405,Plus  Lightning Rod,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+375,Minun,312,Electric,60,40,50,75,85,95,405,Minus  Volt Absorb,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+376,Volbeat,313,Bug,65,73,75,47,85,85,430,Illuminate Swarm Prankster,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+377,Illumise,314,Bug,65,47,75,73,85,85,430,Oblivious Tinted Lens Prankster,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+378,Roselia,315,Grass Poison,50,60,45,100,80,65,400,Natural Cure Poison Point Leaf Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,3 points
+379,Gulpin,316,Poison,70,43,53,43,53,40,302,Liquid Ooze Sticky Hold Gluttony,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+380,Swalot,317,Poison,100,73,83,73,83,55,467,Liquid Ooze Sticky Hold Gluttony,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+381,Carvanha,318,Water Dark,45,90,20,65,20,65,305,Rough Skin  Speed Boost,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+382,Sharpedo-Mega,319,Water Dark,70,140,70,110,65,105,560,Strong Jaw,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,9 points
+383,Sharpedo,319,Water Dark,70,120,40,95,40,95,460,Rough Skin  Speed Boost,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+384,Wailmer,320,Water,130,70,35,70,35,60,400,Water Veil Oblivious Pressure,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+385,Wailord,321,Water,170,90,45,90,45,60,500,Water Veil Oblivious Pressure,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+386,Numel,322,Fire Ground,60,60,40,65,45,35,305,Oblivious Simple Own Tempo,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+387,Camerupt,323,Fire Ground,70,100,70,105,75,40,460,Magma Armor Solid Rock Anger Point,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+388,Camerupt-Mega,323,Fire Ground,70,120,100,145,105,20,560,Sheer Force,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,4 points
+389,Torkoal,324,Fire,70,85,140,85,70,20,470,White Smoke Drought Shell Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+390,Spoink,325,Psychic,60,25,35,70,80,60,330,Thick Fat Own Tempo Gluttony,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+391,Grumpig,326,Psychic,80,45,65,90,110,80,470,Thick Fat Own Tempo Gluttony,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+392,Spinda,327,Normal,60,60,60,60,60,60,360,Own Tempo Tangled Feet Contrary,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+393,Trapinch,328,Ground,45,100,45,45,45,10,290,Hyper Cutter Arena Trap Sheer Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+394,Vibrava,329,Ground Dragon,50,70,50,50,50,70,340,Levitate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+395,Flygon,330,Ground Dragon,80,100,80,80,80,100,520,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+396,Cacnea,331,Grass,50,85,40,85,40,35,335,Sand Veil  Water Absorb,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+397,Cacturne,332,Grass Dark,70,115,60,115,60,55,475,Sand Veil  Water Absorb,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+398,Swablu,333,Normal Flying,45,40,60,40,75,50,310,Natural Cure  Cloud Nine,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+399,Altaria-Mega,334,Dragon Fairy,75,110,110,110,105,80,590,Pixilate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,11 points
+400,Altaria,334,Dragon Flying,75,70,90,70,105,80,490,Natural Cure  Cloud Nine,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+401,Zangoose,335,Normal,73,115,60,60,60,90,458,Immunity  Toxic Boost,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+402,Seviper,336,Poison,73,100,60,100,60,65,458,Shed Skin  Infiltrator,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+403,Lunatone,337,Rock Psychic,90,55,65,95,85,70,460,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+404,Solrock,338,Rock Psychic,90,95,85,55,65,70,460,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+405,Barboach,339,Water Ground,50,48,43,46,41,60,288,Oblivious Anticipation Hydration,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+406,Whiscash,340,Water Ground,110,78,73,76,71,60,468,Oblivious Anticipation Hydration,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+407,Corphish,341,Water,43,80,65,50,35,35,308,Hyper Cutter Shell Armor Adaptability,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+408,Crawdaunt,342,Water,63,120,85,90,55,55,468,Hyper Cutter Shell Armor Adaptability,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+409,Baltoy,343,Ground Psychic,40,40,55,40,70,55,300,Levitate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+410,Claydol,344,Ground Psychic,60,70,105,70,120,75,500,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+411,Lileep,345,Rock Grass,66,41,77,61,87,23,355,Suction Cups  Storm Drain,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+412,Cradily,346,Rock Grass,86,81,97,81,107,43,495,Suction Cups  Storm Drain,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+413,Anorith,347,Rock Bug,45,95,50,40,50,75,355,Battle Armor  Swift Swim,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+414,Armaldo,348,Rock Bug,75,125,100,70,80,45,495,Battle Armor  Swift Swim,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+415,Feebas,349,Water,20,15,20,10,55,80,200,Swift Swim Oblivious Adaptability,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+416,Milotic,350,Water,95,60,79,100,125,81,540,Marvel Scale Competitive Cute Charm,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+417,Castform,351,Normal,70,70,70,70,70,70,420,Forecast,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+418,Kecleon,352,Normal,60,90,70,60,120,40,440,Color Change  Protean,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+419,Shuppet,353,Ghost,44,75,35,63,33,45,295,Insomnia Frisk Cursed Body,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+420,Banette-Mega,354,Ghost,64,165,75,93,83,75,555,Prankster,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,3 points
+421,Banette,354,Ghost,64,115,65,83,63,65,455,Insomnia Frisk Cursed Body,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+422,Duskull,355,Ghost,20,40,90,30,90,25,295,Levitate  Frisk,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+423,Dusclops,356,Ghost,40,70,130,60,130,25,455,Levitate  Frisk,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+424,Tropius,357,Grass Flying,99,68,83,72,87,51,460,Chlorophyll Solar Power Harvest,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+425,Chimecho,358,Psychic,65,50,70,95,80,65,425,Levitate,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+426,Absol-Mega,359,Dark,65,150,60,115,60,115,565,Magic Bounce,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,7 points
+427,Absol,359,Dark,65,130,60,75,60,75,465,Pressure Super Luck Justified,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+428,Wynaut,360,Psychic,95,23,48,23,48,23,260,Shadow Tag  Telepathy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+429,Snorunt,361,Ice,50,50,50,50,50,50,300,Inner Focus Ice Body Moody,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+430,Glalie-Mega,362,Ice,80,120,80,120,80,100,580,Refrigerate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,6 points
+431,Glalie,362,Ice,80,80,80,80,80,80,480,Inner Focus Ice Body Moody,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+432,Spheal,363,Ice Water,70,40,50,55,50,25,290,Thick Fat Ice Body Oblivious,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+433,Sealeo,364,Ice Water,90,60,70,75,70,45,410,Thick Fat Ice Body Oblivious,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+434,Walrein,365,Ice Water,110,80,90,95,90,65,530,Thick Fat Ice Body Oblivious,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+435,Clamperl,366,Water,35,64,85,74,55,32,345,Shell Armor  Rattled,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+436,Huntail,367,Water,55,104,105,94,75,52,485,Swift Swim  Water Veil,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+437,Gorebyss,368,Water,55,84,105,114,75,52,485,Swift Swim  Hydration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+438,Relicanth,369,Water Rock,100,90,130,45,65,55,485,Swift Swim Rock Head Sturdy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+439,Luvdisc,370,Water,43,30,55,40,65,97,330,Swift Swim  Hydration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+440,Bagon,371,Dragon,45,75,60,40,30,50,300,Rock Head  Sheer Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+441,Shelgon,372,Dragon,65,95,100,60,50,50,420,Rock Head  Overcoat,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+442,Salamence,373,Dragon Flying,95,135,80,110,80,100,600,Intimidate  Moxie,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+443,Salamence-Mega,373,Dragon Flying,95,145,130,120,90,120,700,Aerilate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+444,Beldum,374,Steel Psychic,40,55,80,35,60,30,300,Clear Body  Light Metal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+445,Metang,375,Steel Psychic,60,75,100,55,80,50,420,Clear Body  Light Metal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+446,Metagross,376,Steel Psychic,80,135,130,95,90,70,600,Clear Body  Light Metal,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+447,Metagross-Mega,376,Steel Psychic,80,145,150,105,110,110,700,Tough Claws,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+448,Regirock,377,Rock,80,100,200,50,100,50,580,Clear Body  Sturdy,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+449,Regice,378,Ice,80,50,100,100,200,50,580,Clear Body  Ice Body,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+450,Registeel,379,Steel,80,75,150,75,150,50,580,Clear Body  Light Metal,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+451,Latias,380,Dragon Psychic,80,80,90,110,130,110,600,Levitate,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,15 points
+452,Latias-Mega,380,Dragon Psychic,80,100,120,140,150,110,700,Levitate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+453,Latios,381,Dragon Psychic,80,90,80,130,110,110,600,Levitate,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,16 points
+454,Latios-Mega,381,Dragon Psychic,80,130,100,160,120,110,700,Levitate,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+455,Kyogre,382,Water,100,100,90,150,140,90,670,Drizzle,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+456,Kyogre-Primal,382,Water,100,150,90,180,160,90,770,Primordial Sea,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,17 points
+457,Groudon,383,Ground,100,150,140,100,90,90,670,Drought,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+458,Groudon-Primal,383,Ground Fire,100,180,160,150,90,90,770,Desolate Land,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,17 points
+459,Rayquaza,384,Dragon Flying,105,150,90,150,90,95,680,Air Lock,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+460,Rayquaza-Mega,384,Dragon Flying,105,180,100,180,100,115,780,Delta Stream,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+461,Jirachi,385,Steel Psychic,100,100,100,100,100,100,600,Serene Grace,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,15 points
+462,Deoxys-Speed,386,Psychic,50,95,90,95,90,180,600,Pressure,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,17 points
+463,Deoxys-Attack,386,Psychic,50,180,20,180,20,150,600,Pressure,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,17 points
+464,Deoxys,386,Psychic,50,150,50,150,50,150,600,Pressure,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,17 points
+465,Deoxys-Defense,386,Psychic,50,70,160,70,160,90,600,Pressure,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,13 points
+466,Turtwig,387,Grass,55,68,64,45,55,31,318,Overgrow  Shell Armor,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+467,Grotle,388,Grass,75,89,85,55,65,36,405,Overgrow  Shell Armor,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,1 point
+468,Torterra,389,Grass Ground,95,109,105,75,85,56,525,Overgrow  Shell Armor,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+469,Chimchar,390,Fire,44,58,44,58,44,61,309,Blaze  Iron Fist,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+470,Monferno,391,Fire Fighting,64,78,52,78,52,81,405,Blaze  Iron Fist,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+471,Infernape,392,Fire Fighting,76,104,71,104,71,108,534,Blaze  Iron Fist,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,14 points
+472,Piplup,393,Water,53,51,53,61,56,40,314,Torrent  Defiant,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+473,Prinplup,394,Water,64,66,68,81,76,50,405,Torrent  Defiant,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+474,Empoleon,395,Water Steel,84,86,88,111,101,60,530,Torrent  Defiant,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,9 points
+475,Starly,396,Normal Flying,40,55,30,30,30,60,245,Keen Eye  Reckless,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+476,Staravia,397,Normal Flying,55,75,50,40,40,80,340,Intimidate  Reckless,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+477,Staraptor,398,Normal Flying,85,120,70,50,60,100,485,Intimidate  Reckless,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,10 points
+478,Bidoof,399,Normal,59,45,40,35,40,31,250,Simple Unaware Moody,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+479,Bibarel,400,Normal Water,79,85,60,55,60,71,410,Simple Unaware Moody,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+480,Kricketot,401,Bug,37,25,41,25,41,25,194,Shed Skin  Run Away,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+481,Kricketune,402,Bug,77,85,51,55,51,65,384,Swarm  Technician,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+482,Shinx,403,Electric,45,65,34,40,34,45,263,Rivalry Intimidate Guts,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+483,Luxio,404,Electric,60,85,49,60,49,60,363,Rivalry Intimidate Guts,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+484,Luxray,405,Electric,80,120,79,95,79,70,523,Rivalry Intimidate Guts,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+485,Budew,406,Grass Poison,40,30,35,50,70,55,280,Natural Cure Poison Point Leaf Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+486,Roserade,407,Grass Poison,60,70,65,125,105,90,515,Natural Cure Poison Point Technician,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+487,Cranidos,408,Rock,67,125,40,30,30,58,350,Mold Breaker  Sheer Force,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+488,Rampardos,409,Rock,97,165,60,65,50,58,495,Mold Breaker  Sheer Force,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+489,Shieldon,410,Rock Steel,30,42,118,42,88,30,350,Sturdy  Soundproof,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+490,Bastiodon,411,Rock Steel,60,52,168,47,138,30,495,Sturdy  Soundproof,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+491,Burmy,412,Bug,40,29,45,29,45,36,224,Shed Skin  Overcoat,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+492,Wormadam-Plant,413,Bug Grass,60,59,85,79,105,36,424,Anticipation  Overcoat,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+493,Wormadam-Sandy,413,Bug Ground,60,79,105,59,85,36,424,Anticipation  Overcoat,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,
+494,Wormadam-Trash,413,Bug Steel,60,69,95,69,95,36,424,Anticipation  Overcoat,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,
+495,Mothim,414,Bug Flying,70,94,50,94,50,66,424,Swarm  Tinted Lens,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+496,Combee,415,Bug Flying,30,30,42,30,42,70,244,Honey Gather  Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+497,Vespiquen,416,Bug Flying,70,80,102,80,102,40,474,Pressure  Unnerve,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+498,Pachirisu,417,Electric,60,45,70,45,90,95,405,Run Away Pickup Volt Absorb,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+499,Buizel,418,Water,55,65,35,60,30,85,330,Swift Swim  Water Veil,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+500,Floatzel,419,Water,85,105,55,85,50,115,495,Swift Swim  Water Veil,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,3 points
+501,Cherubi,420,Grass,45,35,45,62,53,35,275,Chlorophyll,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+502,Cherrim,421,Grass,70,60,70,87,78,85,450,Flower Gift,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+503,Shellos,422,Water,76,48,48,57,62,34,325,Sticky Hold Storm Drain Sand Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+504,Gastrodon,423,Water Ground,111,83,68,92,82,39,475,Sticky Hold Storm Drain Sand Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+505,Ambipom,424,Normal,75,100,66,60,66,115,482,Technician Pickup Skill Link,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,4 points
+506,Drifloon,425,Ghost Flying,90,50,34,60,44,70,348,Aftermath Unburden Flare Boost,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+507,Drifblim,426,Ghost Flying,150,80,44,90,54,80,498,Aftermath Unburden Flare Boost,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+508,Buneary,427,Normal,55,66,44,44,56,85,350,Run Away Klutz Limber,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+509,Lopunny-Mega,428,Normal Fighting,65,136,94,54,96,135,580,Scrappy,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+510,Lopunny,428,Normal,65,76,84,54,96,105,480,Cute Charm Klutz Limber,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+511,Mismagius,429,Ghost,60,60,60,105,105,105,495,Levitate,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,5 points
+512,Honchkrow,430,Dark Flying,100,125,52,105,52,71,505,Insomnia Super Luck Moxie,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,4 points
+513,Glameow,431,Normal,49,55,42,42,37,85,310,Limber Own Tempo Keen Eye,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+514,Purugly,432,Normal,71,82,64,64,59,112,452,Thick Fat Own Tempo Defiant,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+515,Chingling,433,Psychic,45,30,50,65,50,45,285,Levitate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+516,Stunky,434,Poison Dark,63,63,47,41,41,74,329,Stench Aftermath Keen Eye,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+517,Skuntank,435,Poison Dark,103,93,67,71,61,84,479,Stench Aftermath Keen Eye,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+518,Bronzor,436,Steel Psychic,57,24,86,24,86,23,300,Levitate Heatproof Heavy Metal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+519,Bronzong,437,Steel Psychic,67,89,116,79,116,33,500,Levitate Heatproof Heavy Metal,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+520,Bonsly,438,Rock,50,80,95,10,45,10,290,Sturdy Rock Head Rattled,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+521,Mime Jr.,439,Psychic Fairy,20,25,45,70,90,60,310,Soundproof Filter Technician,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+522,Happiny,440,Normal,100,5,5,15,65,30,220,Natural Cure Serene Grace Friend Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+523,Chatot,441,Normal Flying,76,65,45,92,42,91,411,Keen Eye Tangled Feet Big Pecks,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+524,Spiritomb,442,Ghost Dark,50,92,108,92,108,35,485,Pressure  Infiltrator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+525,Gible,443,Dragon Ground,58,70,45,40,45,42,300,Sand Veil  Rough Skin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+526,Gabite,444,Dragon Ground,68,90,65,50,55,82,410,Sand Veil  Rough Skin,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+527,Garchomp,445,Dragon Ground,108,130,95,80,85,102,600,Sand Veil  Rough Skin,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,17 points
+528,Garchomp-Mega,445,Dragon Ground,108,170,115,120,95,92,700,Sand Force,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,15 points
+529,Munchlax,446,Normal,135,85,40,40,85,5,390,Pickup Thick Fat Gluttony,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+530,Riolu,447,Fighting,40,70,40,35,40,60,285,Steadfast Inner Focus Prankster,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+531,Lucario,448,Fighting Steel,70,110,70,115,70,90,525,Steadfast Inner Focus Prankster,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+532,Lucario-Mega,448,Fighting Steel,70,145,88,140,70,112,625,Adaptability,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+533,Hippopotas,449,Ground,68,72,78,38,42,32,330,Sand Stream  Sand Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+534,Hippowdon,450,Ground,108,112,118,68,72,47,525,Sand Stream  Sand Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+535,Skorupi,451,Poison Bug,40,50,90,30,55,65,330,Battle Armor Sniper Keen Eye,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+536,Drapion,452,Poison Dark,70,90,110,60,75,95,500,Battle Armor Sniper Keen Eye,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+537,Croagunk,453,Poison Fighting,48,61,40,61,40,50,300,Anticipation Dry Skin Poison Touch,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+538,Toxicroak,454,Poison Fighting,83,106,65,86,65,85,490,Anticipation Dry Skin Poison Touch,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+539,Carnivine,455,Grass,74,100,72,90,72,46,454,Levitate,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+540,Finneon,456,Water,49,49,56,49,61,66,330,Swift Swim Storm Drain Water Veil,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+541,Lumineon,457,Water,69,69,76,69,86,91,460,Swift Swim Storm Drain Water Veil,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+542,Mantyke,458,Water Flying,45,20,50,60,120,50,345,Swift Swim Water Absorb Water Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+543,Snover,459,Grass Ice,60,62,50,62,60,40,334,Snow Warning  Soundproof,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+544,Abomasnow-Mega,460,Grass Ice,90,132,105,132,105,30,594,Snow Warning,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,4 points
+545,Abomasnow,460,Grass Ice,90,92,75,92,85,60,494,Snow Warning  Soundproof,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+546,Weavile,461,Dark Ice,70,120,65,45,85,125,510,Pressure  Pickpocket,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,15 points
+547,Magnezone,462,Electric Steel,70,70,115,130,90,60,535,Magnet Pull Sturdy Analytic,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+548,Lickilicky,463,Normal,110,85,95,80,95,50,515,Own Tempo Oblivious Cloud Nine,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+549,Rhyperior,464,Ground Rock,115,140,130,55,55,40,535,Lightning Rod Solid Rock Reckless,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+550,Tangrowth,465,Grass,100,100,125,110,50,50,535,Chlorophyll Leaf Guard Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+551,Electivire,466,Electric,75,123,67,95,85,95,540,Motor Drive  Vital Spirit,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+552,Magmortar,467,Fire,75,95,67,125,95,83,540,Flame Body  Vital Spirit,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+553,Togekiss,468,Fairy Flying,85,50,95,120,115,80,545,Hustle Serene Grace Super Luck,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+554,Yanmega,469,Bug Flying,86,76,86,116,56,95,515,Speed Boost Tinted Lens Frisk,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,7 points
+555,Leafeon,470,Grass,65,110,130,60,65,95,525,Leaf Guard  Chlorophyll,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+556,Glaceon,471,Ice,65,60,110,130,95,65,525,Snow Cloak Snow Clock Ice Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+557,Gliscor,472,Ground Flying,75,95,125,45,75,95,510,Hyper Cutter Sand Veil Poison Heal,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,16 points
+558,Mamoswine,473,Ice Ground,110,130,80,70,60,80,530,Oblivious Snow Cloak Thick Fat,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+559,Porygon-Z,474,Normal,85,80,70,135,75,90,535,Adaptability Download Analytic,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+560,Gallade-Mega,475,Psychic Fighting,68,165,95,65,115,110,618,Inner Focus,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+561,Gallade,475,Psychic Fighting,68,125,65,65,115,80,518,Steadfast  Justified,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+562,Probopass,476,Rock Steel,60,55,145,75,150,40,525,Sturdy Magnet Pull Sand Force,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+563,Dusknoir,477,Ghost,45,100,135,65,135,45,525,Pressure  Frisk,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+564,Froslass,478,Ice Ghost,70,80,70,80,70,110,480,Snow Cloak  Cursed Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+565,Rotom-Frost,479,Electric Ice,50,65,107,105,107,86,520,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,4 points
+566,Rotom-Heat,479,Electric Fire,50,65,107,105,107,86,520,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,13 points
+567,Rotom-Mow,479,Electric Grass,50,65,107,105,107,86,520,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,10 points
+568,Rotom-Fan,479,Electric Flying,50,65,107,105,107,86,520,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,4 points
+569,Rotom-Wash,479,Electric Water,50,65,107,105,107,86,520,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,13 points
+570,Rotom,479,Electric Ghost,50,50,77,95,77,91,440,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+571,Uxie,480,Psychic,75,75,130,75,130,95,580,Levitate,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+572,Mesprit,481,Psychic,80,105,105,105,105,80,580,Levitate,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+573,Azelf,482,Psychic,75,125,70,125,70,115,580,Levitate,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+574,Dialga,483,Steel Dragon,100,120,120,150,100,90,680,Pressure  Telepathy,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+575,Palkia,484,Water Dragon,90,120,100,150,120,100,680,Pressure  Telepathy,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+576,Heatran,485,Fire Steel,91,90,106,130,106,77,600,Flash Fire  Flame Body,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+577,Regigigas,486,Normal,110,160,110,80,110,100,670,Slow Start,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+578,Giratina,487,Ghost Dragon,150,100,120,100,120,90,680,Pressure  Telepathy,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+579,Giratina-Origin,487,Ghost Dragon,150,120,100,120,100,90,680,Levitate,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,17 points
+580,Cresselia,488,Psychic,120,70,120,75,130,85,600,Levitate,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,10 points
+581,Phione,489,Water,80,80,80,80,80,80,480,Hydration,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,
+582,Manaphy,490,Water,100,100,100,100,100,100,600,Hydration,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,11 points
+583,Darkrai,491,Dark,70,90,90,135,90,125,600,Bad Dreams,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,17 points
+584,Shaymin-Sky,492,Grass Flying,100,103,75,120,75,127,600,Serene Grace,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,17 points
+585,Shaymin,492,Grass,100,100,100,100,100,100,600,Natural Cure,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,10 points
+586,Arceus,493,Normal,120,120,120,120,120,120,720,Multitype,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,17 points
+587,Victini,494,Psychic Fire,100,100,100,100,100,100,600,Victory Star,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,16 points
+588,Snivy,495,Grass,45,45,55,45,55,63,308,Overgrow  Contrary,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+589,Servine,496,Grass,60,60,75,60,75,83,413,Overgrow  Contrary,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+590,Serperior,497,Grass,75,75,90,75,95,113,523,Overgrow  Contrary,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,8 points
+591,Tepig,498,Fire,65,63,45,45,45,45,308,Blaze  Thick Fat,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+592,Pignite,499,Fire Fighting,90,93,55,70,55,55,418,Blaze  Thick Fat,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+593,Emboar,500,Fire Fighting,110,123,65,100,65,65,528,Blaze  Reckless,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,7 points
+594,Oshawott,501,Water,55,55,45,63,45,45,308,Torrent  Shell Armor,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+595,Dewott,502,Water,75,75,60,83,60,60,413,Torrent  Shell Armor,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+596,Samurott,503,Water,95,100,85,108,70,70,528,Torrent  Shell Armor,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+597,Patrat,504,Normal,45,55,39,35,39,42,255,Run Away Keen Eye Analytic,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+598,Watchog,505,Normal,60,85,69,60,69,77,420,Illuminate Keen Eye Analytic,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+599,Lillipup,506,Normal,45,60,45,25,45,55,275,Vital Spirit Pickup Run Away,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+600,Herdier,507,Normal,65,80,65,35,65,60,370,Intimidate Sand Rush Scrappy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+601,Stoutland,508,Normal,85,110,90,45,90,80,500,Intimidate Sand Rush Scrappy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+602,Purrloin,509,Dark,41,50,37,50,37,66,281,Limber Unburden Prankster,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+603,Liepard,510,Dark,64,88,50,88,50,106,446,Limber Unburden Prankster,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+604,Pansage,511,Grass,50,53,48,53,48,64,316,Gluttony  Overgrow,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+605,Simisage,512,Grass,75,98,63,98,63,101,498,Gluttony  Overgrow,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+606,Pansear,513,Fire,50,53,48,53,48,64,316,Gluttony  Blaze,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+607,Simisear,514,Fire,75,98,63,98,63,101,498,Gluttony  Blaze,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+608,Panpour,515,Water,50,53,48,53,48,64,316,Gluttony  Torrent,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+609,Simipour,516,Water,75,98,63,98,63,101,498,Gluttony  Torrent,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+610,Munna,517,Psychic,76,25,45,67,55,24,292,Forewarn Synchronize Telepathy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+611,Musharna,518,Psychic,116,55,85,107,95,29,487,Forewarn Synchronize Telepathy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+612,Pidove,519,Normal Flying,50,55,50,36,30,43,264,Big Pecks Super Luck Rivalry,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+613,Tranquill,520,Normal Flying,62,77,62,50,42,65,358,Big Pecks Super Luck Rivalry,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+614,Unfezant,521,Normal Flying,80,105,80,65,55,93,478,Big Pecks Super Luck Rivalry,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+615,Blitzle,522,Electric,45,60,32,50,32,76,295,Lightning Rod Motor Drive Sap Sipper,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+616,Zebstrika,523,Electric,75,100,63,80,63,116,497,Lightning Rod Motor Drive Sap Sipper,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+617,Roggenrolla,524,Rock,55,75,85,25,25,15,280,Sturdy Weak Armor Sand Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+618,Boldore,525,Rock,70,105,105,50,40,20,390,Sturdy Weak Armor Sand Force,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+619,Gigalith,526,Rock,85,135,130,60,80,25,515,Sturdy Sand Stream Sand Force,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+620,Woobat,527,Psychic Flying,65,45,43,55,43,72,323,Unaware Klutz Simple,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+621,Swoobat,528,Psychic Flying,67,57,55,77,55,114,425,Unaware Klutz Simple,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+622,Drilbur,529,Ground,60,85,40,30,45,68,328,Sand Rush Sand Force Mold Breaker,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+623,Excadrill,530,Ground Steel,110,135,60,50,65,88,508,Sand Rush Sand Force Mold Breaker,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,15 points
+624,Audino-Mega,531,Normal Fairy,103,60,126,80,126,50,545,Healer,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,3 points
+625,Audino,531,Normal,108,60,86,60,86,50,450,Healer Regenerator Klutz,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+626,Timburr,532,Fighting,75,80,55,25,35,35,305,Guts Sheer Force Iron Fist,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+627,Gurdurr,533,Fighting,85,105,85,40,50,40,405,Guts Sheer Force Iron Fist,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,3 points
+628,Conkeldurr,534,Fighting,105,140,95,55,65,45,505,Guts Sheer Force Iron Fist,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+629,Tympole,535,Water,50,50,40,50,40,64,294,Swift Swim Hydration Water Absorb,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+630,Palpitoad,536,Water Ground,75,65,55,65,55,69,384,Swift Swim Hydration Water Absorb,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+631,Seismitoad,537,Water Ground,105,95,75,85,75,74,509,Swift Swim Poison Touch Water Absorb,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+632,Throh,538,Fighting,120,100,85,30,85,45,465,Guts Inner Focus Mold Breaker,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+633,Sawk,539,Fighting,75,125,75,30,75,85,465,Sturdy Inner Focus Mold Breaker,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+634,Sewaddle,540,Bug Grass,45,53,70,40,60,42,310,Swarm Chlorophyll Overcoat,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+635,Swadloon,541,Bug Grass,55,63,90,50,80,42,380,Leaf Guard Chlorophyll Overcoat,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+636,Leavanny,542,Bug Grass,75,103,80,70,80,92,500,Swarm Chlorophyll Overcoat,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+637,Venipede,543,Bug Poison,30,45,59,30,39,57,260,Poison Point Swarm Speed Boost,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+638,Whirlipede,544,Bug Poison,40,55,99,40,79,47,360,Poison Point Swarm Speed Boost,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+639,Scolipede,545,Bug Poison,60,100,89,55,69,112,485,Poison Point Swarm Speed Boost,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+640,Cottonee,546,Grass Fairy,40,27,60,37,50,66,280,Prankster Infiltrator Chlorophyll,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+641,Whimsicott,547,Grass Fairy,60,67,85,77,75,116,480,Prankster Infiltrator Chlorophyll,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+642,Petilil,548,Grass,45,35,50,70,50,30,280,Chlorophyll Own Tempo Leaf Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+643,Lilligant,549,Grass,70,60,75,110,75,90,480,Chlorophyll Own Tempo Leaf Guard,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+644,Basculin-Blue,550,Water,70,92,65,80,55,98,460,Rock Head Adaptability Mold Breaker,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+645,Basculin-Red,550,Water,70,92,65,80,55,98,460,Reckless Adaptability Mold Breaker,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+646,Sandile,551,Ground Dark,50,72,35,35,35,65,292,Intimidate Moxie Anger Point,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+647,Krokorok,552,Ground Dark,60,82,45,45,45,74,351,Intimidate Moxie Anger Point,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+648,Krookodile,553,Ground Dark,95,117,80,65,70,92,519,Intimidate Moxie Anger Point,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+649,Darumaka,554,Fire,70,90,45,15,45,50,315,Hustle  Inner Focus,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+650,Darumaka-Galar,554,Ice,70,90,45,15,45,50,315,Hustle  Inner Focus,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+651,Darmanitan-Galar-Zen,555,Ice Fire,105,160,55,30,55,135,540,Zen Mode,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+652,Darmanitan-Zen,555,Fire Psychic,105,30,105,140,105,55,540,Zen Mode,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+653,Darmanitan,555,Fire,105,140,55,30,55,95,480,Sheer Force  Zen Mode,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+654,Darmanitan-Galar,555,Ice,105,140,55,30,55,95,480,Gorilla Tactics  Zen Mode,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,17 points
+655,Maractus,556,Grass,75,86,67,106,67,60,461,Water Absorb Chlorophyll Storm Drain,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+656,Dwebble,557,Bug Rock,50,65,85,35,35,55,325,Sturdy Shell Armor Weak Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+657,Crustle,558,Bug Rock,70,105,125,65,75,45,485,Sturdy Shell Armor Weak Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+658,Scraggy,559,Dark Fighting,50,75,70,35,70,48,348,Shed Skin Moxie Intimidate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+659,Scrafty,560,Dark Fighting,65,90,115,45,115,58,488,Shed Skin Moxie Intimidate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+660,Sigilyph,561,Psychic Flying,72,58,80,103,80,97,490,Wonder Skin Magic Guard Tinted Lens,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+661,Yamask,562,Ghost,38,30,85,55,65,30,303,Mummy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+662,Yamask-Galar,562,Ghost Ground,38,55,95,30,65,30,313,Wandering Spirit,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+663,Cofagrigus,563,Ghost,58,50,140,95,105,30,478,Mummy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+664,Tirtouga,564,Water Rock,54,78,103,53,45,22,355,Solid Rock Sturdy Swift Swim,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+665,Carracosta,565,Water Rock,74,108,133,83,65,32,495,Solid Rock Sturdy Swift Swim,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+666,Archen,566,Rock Flying,55,112,45,74,45,70,401,Defeatist,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+667,Archeops,567,Rock Flying,75,140,65,112,65,110,567,Defeatist,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+668,Trubbish,568,Poison,50,50,62,40,62,65,329,Stench Sticky Hold Aftermath,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+669,Garbodor,569,Poison,80,95,82,60,82,75,474,Stench Weak Armor Aftermath,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+670,Zorua,570,Dark,40,65,40,80,40,65,330,Illusion,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+671,Zoroark,571,Dark,60,105,60,120,60,105,510,Illusion,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+672,Minccino,572,Normal,55,50,40,40,40,75,300,Cute Charm Technician Skill Link,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+673,Cinccino,573,Normal,75,95,60,65,60,115,470,Cute Charm Technician Skill Link,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+674,Gothita,574,Psychic,45,30,50,55,65,45,290,Frisk Competitive Shadow Tag,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+675,Gothorita,575,Psychic,60,45,70,75,85,55,390,Frisk Competitive Shadow Tag,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+676,Gothitelle,576,Psychic,70,55,95,95,110,65,490,Frisk Competitive Shadow Tag,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+677,Solosis,577,Psychic,45,30,40,105,50,20,290,Overcoat Magic Guard Regenerator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+678,Duosion,578,Psychic,65,40,50,125,60,30,370,Overcoat Magic Guard Regenerator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+679,Reuniclus,579,Psychic,110,65,75,125,85,30,490,Overcoat Magic Guard Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+680,Ducklett,580,Water Flying,62,44,50,44,50,55,305,Keen Eye Big Pecks Hydration,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+681,Swanna,581,Water Flying,75,87,63,87,63,98,473,Keen Eye Big Pecks Hydration,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+682,Vanillite,582,Ice,36,50,50,65,60,44,305,Ice Body Snow Cloak Weak Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+683,Vanillish,583,Ice,51,65,65,80,75,59,395,Ice Body Snow Cloak Weak Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+684,Vanilluxe,584,Ice,71,95,85,110,95,79,535,Ice Body Snow Warning Weak Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+685,Deerling,585,Normal Grass,60,60,50,40,50,75,335,Chlorophyll Sap Sipper Serene Grace,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+686,Sawsbuck,586,Normal Grass,80,100,70,60,70,95,475,Chlorophyll Sap Sipper Serene Grace,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1 point
+687,Emolga,587,Electric Flying,55,75,60,75,60,103,428,Static  Motor Drive,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+688,Karrablast,588,Bug,50,75,45,40,45,60,315,Swarm Shed Skin No Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+689,Escavalier,589,Bug Steel,70,135,105,60,105,20,495,Swarm Shell Armor Overcoat,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+690,Foongus,590,Grass Poison,69,55,45,55,55,15,294,Effect Spore  Regenerator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+691,Amoonguss,591,Grass Poison,114,85,70,85,80,30,464,Effect Spore  Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+692,Frillish,592,Water Ghost,55,40,50,65,85,40,335,Water Absorb Cursed Body Damp,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+693,Jellicent,593,Water Ghost,100,60,70,85,105,60,480,Water Absorb Cursed Body Damp,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+694,Alomomola,594,Water,165,75,80,40,45,65,470,Healer Hydration Regenerator,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,8 points
+695,Joltik,595,Bug Electric,50,47,50,57,50,65,319,Compound Eyes Unnerve Swarm,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+696,Galvantula,596,Bug Electric,70,77,60,97,60,108,472,Compound Eyes Unnerve Swarm,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+697,Ferroseed,597,Grass Steel,44,50,91,24,86,10,305,Iron Barbs,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+698,Ferrothorn,598,Grass Steel,74,94,131,54,116,20,489,Iron Barbs  Anticipation,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+699,Klink,599,Steel,40,55,70,45,60,30,300,Plus Minus Clear Body,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+700,Klang,600,Steel,60,80,95,70,85,50,440,Plus Minus Clear Body,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+701,Klinklang,601,Steel,60,100,115,70,85,90,520,Plus Minus Clear Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+702,Tynamo,602,Electric,35,55,40,45,40,60,275,Levitate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+703,Eelektrik,603,Electric,65,85,70,75,70,40,405,Levitate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+704,Eelektross,604,Electric,85,115,80,105,80,50,515,Levitate,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,7 points
+705,Elgyem,605,Psychic,55,55,55,85,55,30,335,Telepathy Synchronize Analytic,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+706,Beheeyem,606,Psychic,75,75,75,125,95,40,485,Telepathy Synchronize Analytic,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+707,Litwick,607,Ghost Fire,50,30,55,65,55,20,275,Flash Fire Flame Body Infiltrator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+708,Lampent,608,Ghost Fire,60,40,60,95,60,55,370,Flash Fire Flame Body Infiltrator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+709,Chandelure,609,Ghost Fire,60,55,90,145,90,80,520,Flash Fire Flame Body Infiltrator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+710,Axew,610,Dragon,46,87,60,30,40,57,320,Rivalry Mold Breaker Unnerve,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+711,Fraxure,611,Dragon,66,117,70,40,50,67,410,Rivalry Mold Breaker Unnerve,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1 point
+712,Haxorus,612,Dragon,76,147,90,60,70,97,540,Rivalry Mold Breaker Unnerve,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+713,Cubchoo,613,Ice,55,70,40,60,40,40,305,Snow Cloak Slush Rush Rattled,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+714,Beartic,614,Ice,95,130,80,70,80,50,505,Snow Cloak Slush Rush Swift Swim,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+715,Cryogonal,615,Ice,80,50,50,95,135,105,515,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+716,Shelmet,616,Bug,50,40,85,40,65,25,305,Hydration Shell Armor Overcoat,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+717,Accelgor,617,Bug,80,70,40,100,60,145,495,Hydration Sticky Hold Unburden,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+718,Stunfisk-Galar,618,Ground Steel,109,81,99,66,84,32,471,Mimicry,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+719,Stunfisk,618,Ground Electric,109,66,84,81,99,32,471,Static Limber Sand Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+720,Mienfoo,619,Fighting,45,85,50,55,50,65,350,Inner Focus Regenerator Reckless,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+721,Mienshao,620,Fighting,65,125,60,95,60,105,510,Inner Focus Regenerator Reckless,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+722,Druddigon,621,Dragon,77,120,90,60,90,48,485,Rough Skin Sheer Force Mold Breaker,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+723,Golett,622,Ground Ghost,59,74,50,35,50,35,303,Iron Fist Klutz No Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+724,Golurk,623,Ground Ghost,89,124,80,55,80,55,483,Iron Fist Klutz No Guard,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+725,Pawniard,624,Dark Steel,45,85,70,40,40,60,340,Defiant Inner Focus Pressure,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+726,Bisharp,625,Dark Steel,65,125,100,60,70,70,490,Defiant Inner Focus Pressure,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+727,Bouffalant,626,Normal,95,110,95,40,95,55,490,Reckless Sap Sipper Soundproof,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+728,Rufflet,627,Normal Flying,70,83,50,37,50,60,350,Keen Eye Sheer Force Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+729,Braviary,628,Normal Flying,100,123,75,57,75,80,510,Keen Eye Sheer Force Defiant,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+730,Vullaby,629,Dark Flying,70,55,75,45,65,60,370,Big Pecks Overcoat Weak Armor,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+731,Mandibuzz,630,Dark Flying,110,65,105,55,95,80,510,Big Pecks Overcoat Weak Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+732,Heatmor,631,Fire,85,97,66,105,66,65,484,Gluttony Flash Fire White Smoke,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+733,Durant,632,Bug Steel,58,109,112,48,48,109,484,Swarm Hustle Truant,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+734,Deino,633,Dark Dragon,52,65,50,45,50,38,300,Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+735,Zweilous,634,Dark Dragon,72,85,70,65,70,58,420,Hustle,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+736,Hydreigon,635,Dark Dragon,92,105,90,125,90,98,600,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,15 points
+737,Larvesta,636,Bug Fire,55,85,55,50,55,60,360,Flame Body  Swarm,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+738,Volcarona,637,Bug Fire,85,60,65,135,105,100,550,Flame Body  Swarm,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+739,Cobalion,638,Steel Fighting,91,90,129,90,72,108,580,Justified,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+740,Terrakion,639,Rock Fighting,91,129,90,72,90,108,580,Justified,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+741,Virizion,640,Grass Fighting,91,90,72,90,129,108,580,Justified,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+742,Tornadus-Therian,641,Flying,79,100,80,110,90,121,580,Regenerator,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,17 points
+743,Tornadus,641,Flying,79,115,70,125,80,111,580,Prankster  Defiant,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,
+744,Thundurus,642,Electric Flying,79,115,70,125,80,111,580,Prankster  Defiant,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,
+745,Thundurus-Therian,642,Electric Flying,79,105,70,145,80,101,580,Volt Absorb,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,12 points
+746,Reshiram,643,Dragon Fire,100,120,100,150,120,90,680,Turboblaze,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+747,Zekrom,644,Dragon Electric,100,150,120,120,100,90,680,Teravolt,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+748,Landorus,645,Earth Flying,89,125,90,115,80,101,600,Sand Force  Sheer Force,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,
+749,Landorus-Therian,645,Earth Flying,89,145,90,105,80,91,600,Intimidate,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,17 points
+750,Kyurem-Black,646,Dragon Ice,125,170,100,120,90,95,700,Teravolt,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,17 points
+751,Kyurem-White,646,Dragon Ice,125,120,90,170,100,95,700,Turboblaze,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,17 points
+752,Kyurem,646,Dragon Ice,125,130,90,130,90,95,660,Pressure,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,15 points
+753,Keldeo,647,Water Fighting,91,72,90,129,90,108,580,Justified,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,14 points
+754,Meloetta-Pirouette,648,Normal Fighting,100,128,90,77,77,128,600,Serene Grace,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,
+755,Meloetta,648,Normal Psychic,100,77,77,128,128,90,600,Serene Grace,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,8 points
+756,Genesect,649,Bug Steel,71,120,95,120,95,99,600,Download,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,17 points
+757,Chespin,650,Grass,56,61,65,48,45,38,313,Overgrow  Bulletproof,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+758,Quilladin,651,Grass,61,78,95,56,58,57,405,Overgrow  Bulletproof,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,2 points
+759,Chesnaught,652,Grass Fighting,88,107,122,74,75,64,530,Overgrow  Bulletproof,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,8 points
+760,Fennekin,653,Fire,40,45,40,62,60,60,307,Blaze  Magician,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+761,Braixen,654,Fire,59,59,58,90,70,73,409,Blaze  Magician,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+762,Delphox,655,Fire Psychic,75,69,72,114,100,104,534,Blaze  Magician,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,6 points
+763,Froakie,656,Water,41,56,40,62,44,71,314,Torrent  Protean,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+764,Frogadier,657,Water,54,63,52,83,56,97,405,Torrent  Protean,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,1 point
+765,Greninja-Ash,658,Water Dark,72,145,67,153,71,132,640,Battle Bond,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+766,Greninja,658,Water Dark,72,95,67,103,71,122,530,Torrent Battle Bond Protean,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+767,Bunnelby,659,Normal,38,36,38,32,36,57,237,Pickup Cheek Pouch Huge Power,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+768,Diggersby,660,Normal Ground,85,56,77,50,77,78,423,Pickup Cheek Pouch Huge Power,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+769,Fletchling,661,Normal Flying,45,50,43,40,38,62,278,Big Pecks  Gale Wings,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+770,Fletchinder,662,Fire Flying,62,73,55,56,52,84,382,Flame Body  Gale Wings,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+771,Talonflame,663,Fire Flying,78,81,71,74,69,126,499,Flame Body  Gale Wings,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+772,Scatterbug,664,Bug,38,35,40,27,25,35,200,Shield Dust Compound Eyes Friend Guard,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+773,Spewpa,665,Bug,45,22,60,27,30,29,213,Shed Skin  Friend Guard,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+774,Vivillon,666,Bug Flying,80,52,50,90,50,89,411,Shield Dust Compound Eyes Friend Guard,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+775,Litleo,667,Fire Normal,62,50,58,73,54,72,369,Rivalry Unnerve Moxie,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+776,Pyroar,668,Fire Normal,86,68,72,109,66,106,507,Rivalry Unnerve Moxie,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+777,Flabebe,669,Fairy,44,38,39,61,79,42,303,Flower Veil  Symbiosis,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+778,Floette,670,Fairy,54,45,47,75,98,52,371,Flower Veil  Symbiosis,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+779,Florges,671,Fairy,78,65,68,112,154,75,552,Flower Veil  Symbiosis,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,8 points
+780,Skiddo,672,Grass,66,65,48,62,57,52,350,Sap Sipper  Grass Pelt,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+781,Gogoat,673,Grass,123,100,62,97,81,68,531,Sap Sipper  Grass Pelt,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+782,Pancham,674,Fighting,67,82,62,46,48,43,348,Iron Fist Mold Breaker Scrappy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+783,Pangoro,675,Fighting Dark,95,124,78,69,71,58,495,Iron Fist Mold Breaker Scrappy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+784,Furfrou,676,Normal,75,80,60,65,90,102,472,Fur Coat,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+785,Espurr,677,Psychic,62,48,54,63,60,68,355,Keen Eye Infiltrator Own Tempo,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+786,Meowstic (Female),678,Psychic,74,48,76,83,81,104,466,Keen Eye Infiltrator Competitive,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+787,Meowstic (Male),678,Psychic,74,48,76,83,81,104,466,Keen Eye Infiltrator Prankster,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+788,Honedge,679,Steel Ghost,45,80,100,35,37,28,325,No Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+789,Doublade,680,Steel Ghost,59,110,150,45,49,35,448,No Guard,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,5 points
+790,Aegislash,681,Steel Ghost,60,50,150,50,150,60,520,Stance Change,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,16 points
+791,Spritzee,682,Fairy,78,52,60,63,65,23,341,Healer  Aroma Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+792,Aromatisse,683,Fairy,101,72,72,99,89,29,462,Healer  Aroma Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+793,Swirlix,684,Fairy,62,48,66,59,57,49,341,Sweet Veil  Unburden,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+794,Slurpuff,685,Fairy,82,80,86,85,75,72,480,Sweet Veil  Unburden,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+795,Inkay,686,Dark Psychic,53,54,53,37,46,45,288,Contrary Suction Cups Infiltrator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+796,Malamar,687,Dark Psychic,86,92,88,68,75,73,482,Contrary Suction Cups Infiltrator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+797,Binacle,688,Rock Water,42,52,67,39,56,50,306,Sniper Tough Claws Pickpocket,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+798,Barbaracle,689,Rock Water,72,105,115,54,86,68,500,Sniper Tough Claws Pickpocket,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+799,Skrelp,690,Poison Water,50,60,60,60,60,30,320,Poison Point Poison Touch Adaptability,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+800,Dragalge,691,Poison Dragon,65,75,90,97,123,44,494,Poison Point Poison Touch Adaptability,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+801,Clauncher,692,Water,50,53,62,58,63,44,330,Mega Launcher,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+802,Clawitzer,693,Water,71,73,88,120,89,59,500,Mega Launcher,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+803,Helioptile,694,Electric Normal,44,38,33,61,43,70,289,Dry Skin Sand Veil Solar Power,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+804,Heliolisk,695,Electric Normal,62,55,52,109,94,109,481,Dry Skin Sand Veil Solar Power,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+805,Tyrunt,696,Rock Dragon,58,89,77,45,45,48,362,Strong Jaw  Sturdy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+806,Tyrantrum,697,Rock Dragon,82,121,119,69,59,71,521,Strong Jaw  Rock Head,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+807,Amaura,698,Rock Ice,77,59,50,67,63,46,362,Refrigerate  Snow Warning,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+808,Aurorus,699,Rock Ice,123,77,72,99,92,58,521,Refrigerate  Snow Warning,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+809,Sylveon,700,Fairy,95,65,65,110,130,60,525,Cute Charm  Pixilate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+810,Hawlucha,701,Fighting Flying,78,92,75,74,63,118,500,Limber Unburden Mold Breaker,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+811,Dedenne,702,Electric Fairy,67,58,57,81,67,101,431,Cheek Pouch Pickup Plus,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+812,Carbink,703,Rock Fairy,50,50,150,50,150,50,500,Clear Body  Sturdy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+813,Goomy,704,Dragon,45,50,35,55,75,40,300,Sap Sipper Hydration Gooey,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+814,Sliggoo,705,Dragon,68,75,53,83,113,60,452,Sap Sipper Hydration Gooey,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+815,Goodra,706,Dragon,90,100,70,110,150,80,600,Sap Sipper Hydration Gooey,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+816,Klefki,707,Steel Fairy,57,80,91,80,87,75,470,Prankster  Magician,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+817,Phantump,708,Ghost Grass,43,70,48,50,60,38,309,Natural Cure Frisk Harvest,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+818,Trevenant,709,Ghost Grass,85,110,76,65,82,56,474,Natural Cure Frisk Harvest,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+819,Pumpkaboo-Average,710,Ghost Grass,49,66,70,44,55,51,335,Pickup Frisk Insomnia,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+820,Pumpkaboo-Large,710,Ghost Grass,54,66,70,44,55,46,335,Pickup Frisk Insomnia,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+821,Pumpkaboo-Small,710,Ghost Grass,44,66,70,44,55,56,335,Pickup Frisk Insomnia,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+822,Pumpkaboo-Super,710,Ghost Grass,59,66,70,44,55,41,335,Pickup Frisk Insomnia,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+823,Gourgeist-Small,711,Ghost Grass,55,85,122,58,75,99,494,Pickup Frisk Insomnia,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+824,Gourgeist-Average,711,Ghost Grass,65,90,122,58,75,84,494,Pickup Frisk Insomnia,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+825,Gourgeist-Large,711,Ghost Grass,75,95,122,58,75,69,494,Pickup Frisk Insomnia,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+826,Gourgeist-Super,711,Ghost Grass,85,100,122,58,75,54,494,Pickup Frisk Insomnia,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+827,Bergmite,712,Ice,55,69,85,32,35,28,304,Own Tempo Ice Body Sturdy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+828,Avalugg,713,Ice,95,117,184,44,46,28,514,Own Tempo Ice Body Sturdy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+829,Noibat,714,Flying Dragon,40,30,35,45,40,55,245,Frisk Infiltrator Telepathy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+830,Noivern,715,Flying Dragon,85,70,80,97,80,123,535,Frisk Infiltrator Telepathy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+831,Xerneas,716,Fairy,126,131,95,131,98,99,680,Fairy Aura,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+832,Yveltal,717,Dark Flying,126,131,95,131,98,99,680,Dark Aura,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+833,Zygarde-Complete,718,Dragon Ground,216,100,121,91,95,85,708,Power Construct,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,17 points
+834,Zygarde-50%,718,Dragon Ground,108,100,121,81,95,95,600,Aura Break  Power Construct,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,
+835,Zygarde-10%,718,Dragon Ground,54,100,71,61,85,115,486,Aura Break  Power Construct,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,
+836,Diancie,719,Rock Fairy,50,100,150,100,150,50,600,Clear Body,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,7 points
+837,Diancie-Mega,719,Rock Fairy,50,160,110,160,110,110,700,Magic Bounce,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,17 points
+838,Hoopa-Unbound,720,Psychic Dark,80,160,60,170,130,80,680,Magician,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,13 points
+839,Hoopa,720,Psychic Ghost,80,110,60,150,130,70,600,Magician,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,6 points
+840,Volcanion,721,Fire Water,80,110,120,130,90,70,600,Water Absorb,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,10 points
+841,Rowlet,722,Grass Flying,68,55,55,50,50,42,320,Overgrow  Long Reach,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+842,Dartrix,723,Grass Flying,78,75,75,70,70,52,420,Overgrow  Long Reach,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+843,Decidueye,724,Grass Ghost,78,107,75,100,100,70,530,Overgrow  Long Reach,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+844,Litten,725,Fire,45,65,40,60,40,70,320,Blaze  Intimidate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+845,Torracat,726,Fire,65,85,50,80,50,90,420,Blaze  Intimidate,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+846,Incineroar,727,Fire Dark,95,115,90,80,90,60,530,Blaze  Intimidate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+847,Popplio,728,Water,50,54,54,66,56,40,320,Torrent  Liquid Voice,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+848,Brionne,729,Water,60,69,69,91,81,50,420,Torrent  Liquid Voice,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+849,Primarina,730,Water Fairy,80,74,74,126,116,60,530,Torrent  Liquid Voice,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+850,Pikipek,731,Normal Flying,35,75,30,30,30,65,265,Keen Eye Skill Link Pickup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+851,Trumbeak,732,Normal Flying,55,85,50,40,50,75,355,Keen Eye Skill Link Pickup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+852,Toucannon,733,Normal Flying,80,120,75,75,75,60,485,Keen Eye Skill Link Sheer Force,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+853,Yungoos,734,Normal,48,70,30,30,30,45,253,Stakeout Strong Jaw Adaptability,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+854,Gumshoos,735,Normal,88,110,60,55,60,45,418,Stakeout Strong Jaw Adaptability,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+855,Grubbin,736,Bug,47,62,45,55,45,46,300,Swarm,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+856,Charjabug,737,Bug Electric,57,82,95,55,75,36,400,Battery,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+857,Vikavolt,738,Bug Electric,77,70,90,145,75,43,500,Levitate,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+858,Crabrawler,739,Fighting,47,82,57,42,47,63,338,Hyper Cutter Iron Fist Anger Point,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+859,Crabominable,740,Fighting Ice,97,132,77,62,67,43,478,Hyper Cutter Iron Fist Anger Point,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,2 points
+860,Oricorio-Baile,741,Fire Flying,75,70,70,98,70,93,476,Dancer,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,
+861,Oricorio-Pa'u,741,Psychic Flying,75,70,70,98,70,93,476,Dancer,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,
+862,Oricorio-Pom-Pom,741,Electric Flying,75,70,70,98,70,93,476,Dancer,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,
+863,Oricorio-Sensu,741,Ghost Flying,75,70,70,98,70,93,476,Dancer,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,
+864,Cutiefly,742,Bug Fairy,40,45,40,55,40,84,304,Honey Gather Shield Dust Sweet Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+865,Ribombee,743,Bug Fairy,60,55,60,95,70,124,464,Honey Gather Shield Dust Sweet Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+866,Rockruff,744,Rock,45,65,40,30,40,60,280,Keen Eye Vital Spirit Steadfast,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+867,Lycanroc-Midday,745,Rock,75,115,65,55,65,112,487,Keen Eye Vital Spirit Steadfast,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+868,Lycanroc-Dusk,745,Rock,75,117,65,55,65,110,487,Tough Claws,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,11 points
+869,Lycanroc-Midnight,745,Rock,85,115,75,55,75,82,487,Keen Eye Vital Spirit No Guard,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,2 points
+870,Wishiwashi-School,746,Water,45,140,130,140,135,30,620,Schooling,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+871,Wishiwashi,746,Water,45,20,20,25,25,40,175,Schooling,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,2 points
+872,Mareanie,747,Poison Water,50,53,62,43,52,45,305,Merciless Limber Regenerator,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+873,Toxapex,748,Poison Water,50,63,152,53,142,35,495,Merciless Limber Regenerator,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+874,Mudbray,749,Ground,70,100,70,45,55,45,385,Own Tempo Stamina Inner Focus,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+875,Mudsdale,750,Ground,100,125,100,55,85,35,500,Own Tempo Stamina Inner Focus,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+876,Dewpider,751,Water Bug,38,40,52,40,72,27,269,Water Bubble  Water Absorb,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+877,Araquanid,752,Water Bug,68,70,92,50,132,42,454,Water Bubble  Water Absorb,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+878,Fomantis,753,Grass,40,55,35,50,35,35,250,Leaf Guard  Contrary,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+879,Lurantis,754,Grass,70,105,90,80,90,45,480,Leaf Guard  Contrary,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+880,Morelull,755,Grass Fairy,40,35,55,65,75,15,285,Illuminate Effect Spore Rain Dish,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+881,Shiinotic,756,Grass Fairy,60,45,80,90,100,30,405,Illuminate Effect Spore Rain Dish,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+882,Salandit,757,Poison Fire,48,44,40,71,40,77,320,Corrosion  Oblivious,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+883,Salazzle,758,Poison Fire,68,64,60,111,60,117,480,Corrosion  Oblivious,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+884,Stufful,759,Normal Fighting,70,75,50,45,50,50,340,Fluffy Klutz Cute Charm,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+885,Bewear,760,Normal Fighting,120,125,80,55,60,60,500,Fluffy Klutz Unnerve,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+886,Bounsweet,761,Grass,42,30,38,30,38,32,210,Leaf Guard Oblivious Sweet Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+887,Steenee,762,Grass,52,40,48,40,48,62,290,Leaf Guard Oblivious Sweet Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+888,Tsareena,763,Grass,72,120,98,50,98,72,510,Leaf Guard Queenly Majesty Sweet Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+889,Comfey,764,Fairy,51,52,90,82,110,100,485,Flower Veil Triage Natural Cure,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+890,Oranguru,765,Normal Psychic,90,60,80,90,110,60,490,Inner Focus Telepathy Symbiosis,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+891,Passimian,766,Fighting,100,120,90,40,60,80,490,Receiver  Defiant,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+892,Wimpod,767,Bug Water,25,35,40,20,30,80,230,Wimp Out,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+893,Golisopod,768,Bug Water,75,125,140,60,90,40,530,Emergency Exit,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+894,Sandygast,769,Ghost Ground,55,55,80,70,45,15,320,Water Compaction  Sand Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+895,Palossand,770,Ghost Ground,85,75,110,100,75,35,480,Water Compaction  Sand Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+896,Pyukumuku,771,Water,55,60,130,30,130,5,410,Innards Out  Unaware,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+897,Type: Null,772,Normal,95,95,95,95,95,59,534,Battle Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+898,Silvally,773,Normal,95,95,95,95,95,95,570,RKS System,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+899,Minior-Core,774,Rock Flying,60,100,60,100,60,120,500,Shields Down,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,
+900,Minior,774,Rock Flying,60,60,100,60,100,60,440,Shields Down,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,5 points
+901,Komala,775,Normal,65,115,65,75,95,65,480,Comatose,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,3 points
+902,Turtonator,776,Fire Dragon,60,78,135,91,85,36,485,Shell Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+903,Togedemaru,777,Electric Steel,65,98,63,40,73,96,435,Iron Barbs Lightning Rod Sturdy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+904,Mimikyu,778,Ghost Fairy,55,90,80,50,105,96,476,Disguise,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+905,Bruxish,779,Water Psychic,68,105,70,70,70,92,475,Dazzling Strong Jaw Wonder Skin,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,4 points
+906,Drampa,780,Normal Dragon,78,60,85,135,91,36,485,Berserk Sap Sipper Cloud Nine,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+907,Dhelmise,781,Ghost Grass,70,131,100,86,90,40,517,Steelworker,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,8 points
+908,Jangmo-o,782,Dragon,45,55,65,45,45,45,300,Bulletproof Soundproof Overcoat,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+909,Hakamo-o,783,Dragon Fighting,55,75,90,65,70,65,420,Bulletproof Soundproof Overcoat,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+910,Kommo-o,784,Dragon Fighting,75,110,125,100,105,85,600,Bulletproof Soundproof Overcoat,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+911,Tapu Koko,785,Electric Fairy,70,115,85,95,75,130,570,Electric Surge  Telepathy,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,17 points
+912,Tapu Lele,786,Psychic Fairy,70,85,75,130,115,95,570,Psychic Surge  Telepathy,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,16 points
+913,Tapu Bulu,787,Grass Fairy,70,130,115,85,95,75,570,Grassy Surge  Telepathy,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+914,Tapu Fini,788,Water Fairy,70,75,115,95,130,85,570,Misty Surge  Telepathy,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,15 points
+915,Cosmog,789,Psychic,43,29,31,29,31,37,200,Unaware,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,
+916,Cosmoem,790,Psychic,43,29,131,29,131,37,400,Sturdy,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,
+917,Solgaleo,791,Psychic Steel,137,137,107,113,89,97,680,Full Metal Body,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+918,Lunala,792,Psychic Ghost,137,113,89,137,107,97,680,Shadow Shield,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+919,Nihilego,793,Rock Poison,109,53,47,127,131,103,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,12 points
+920,Buzzwole,794,Bug Fighting,107,139,139,53,53,79,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+921,Pheromosa,795,Bug Fighting,71,137,37,137,37,151,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,17 points
+922,Xurkitree,796,Electric,83,89,71,173,71,83,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+923,Celesteela,797,Steel Flying,97,101,103,107,101,61,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,17 points
+924,Kartana,798,Grass Steel,59,181,131,59,31,109,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+925,Guzzlord,799,Dark Dragon,223,101,53,97,53,43,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+926,Necrozma-Dusk Mane,800,Psychic Steel,97,157,127,113,109,77,680,Prism Armor,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+927,Necrozma-Dawn Wings,800,Psychic Ghost,97,113,109,157,127,77,680,Prism Armor,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+928,Necrozma,800,Psychic,97,107,101,127,89,79,600,Prism Armor,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,16 points
+929,Necrozma-Ultra,800,Psychic Dragon,97,167,97,167,97,129,754,Neuroforce,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,17 points
+930,Magearna,801,Steel Fairy,80,95,115,130,115,65,600,Soul-Heart,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,17 points
+931,Marshadow,802,Fighting Ghost,90,125,80,90,90,125,600,Technician,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,17 points
+932,Poipole,803,Poison,67,73,67,73,67,73,420,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,
+933,Naganadel,804,Poison Dragon,73,73,73,127,73,121,540,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,17 points
+934,Stakataka,805,Rock Steel,61,131,211,53,101,13,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+935,Blacephalon,806,Fire Ghost,53,127,53,151,79,107,570,Beast Boost,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+936,Zeraora,807,Electric,88,112,75,102,80,143,600,Volt Absorb,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,16 points
+937,Meltan,808,Steel,46,65,65,55,35,34,300,Magnet Pull,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,
+938,Melmetal,809,Steel,135,143,143,80,65,34,600,Iron Fist,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,15 points
+939,Grookey,810,Grass,50,65,50,40,40,65,310,Overgrow  Grassy Surge,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+940,Thwackey,811,Grass,70,85,70,55,60,80,420,Overgrow  Grassy Surge,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,3 points
+941,Rillaboom,812,Grass,100,125,90,60,70,85,530,Overgrow  Grassy Surge,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+942,Scorbunny,813,Fire,50,71,40,40,40,69,310,Blaze  Libero,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+943,Raboot,814,Fire,65,86,60,55,60,94,420,Blaze  Libero,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,3 points
+944,Cinderace,815,Fire,80,116,75,65,75,119,530,Blaze  Libero,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+945,Sobble,816,Water,50,40,40,70,40,70,310,Torrent  Sniper,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+946,Drizzile,817,Water,65,60,55,95,55,90,420,Torrent  Sniper,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+947,Inteleon,818,Water,70,85,65,125,65,120,530,Torrent  Sniper,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+948,Skwovet,819,Normal,70,55,55,35,35,25,275,Cheek Pouch  Gluttony,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+949,Greedent,820,Normal,120,95,95,55,75,20,460,Cheek Pouch  Gluttony,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+950,Rookidee,821,Flying,38,47,35,33,35,57,245,Keen Eye Unnerve Big Pecks,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+951,Corvisquire,822,Flying,68,67,55,43,55,77,365,Keen Eye Unnerve Big Pecks,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+952,Corviknight,823,Flying Steel,98,87,105,53,85,67,495,Pressure Unnerve Mirror Armor,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,14 points
+953,Blipbug,824,Bug,25,20,20,25,45,45,180,Swarm Compound Eyes Telepathy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+954,Dottler,825,Bug Psychic,50,35,80,50,90,30,335,Swarm Compound Eyes Telepathy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+955,Orbeetle,826,Bug Psychic,60,45,110,80,120,90,505,Swarm Frisk Telepathy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+956,Nickit,827,Dark,40,28,28,47,52,50,245,Run Away Unburden Stakeout,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+957,Thievul,828,Dark,70,58,58,87,92,90,455,Run Away Unburden Stakeout,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+958,Gossifleur,829,Grass,40,40,60,40,60,10,250,Cotton Down  Regenerator Effect Spore,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+959,Eldegoss,830,Grass,60,50,90,80,120,60,460,Cotton Down  Regenerator Effect Spore,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+960,Wooloo,831,Normal,42,40,55,40,45,48,270,Fluffy Run Away Bulletproof,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+961,Dubwool,832,Normal,72,80,100,60,90,88,490,Fluffy Steadfast Bulletproof,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+962,Chewtle,833,Water,50,64,50,38,38,44,284,Strong Jaw Shell Armor Swift Swim,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+963,Drednaw,834,Water Rock,90,115,90,48,68,74,485,Strong Jaw Shell Armor Swift Swim,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+964,Yamper,835,Electric,59,45,50,40,50,26,270,Ball Fetch  Rattled,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+965,Boltund,836,Electric,69,90,60,90,60,121,490,Strong Jaw  Competitive,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+966,Rolycoly,837,Rock,30,40,50,40,50,30,240,Steam Engine Heatproof Flash Fire,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+967,Carkol,838,Rock Fire,80,60,90,60,70,50,410,Steam Engine Flame Body Flash Fire,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+968,Coalossal,839,Rock Fire,110,80,120,80,90,30,510,Steam Engine Flame Body Flash Fire,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+969,Applin,840,Grass Dragon,40,40,80,40,40,20,260,Ripen Gluttony Bulletproof,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+970,Flapple,841,Grass Dragon,70,110,80,95,60,70,485,Ripen Gluttony Hustle,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+971,Appletun,842,Grass Dragon,110,85,80,100,80,30,485,Ripen Gluttony Thick Fat,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,4 points
+972,Silicobra,843,Ground,52,57,75,35,50,46,315,Sand Spit Shed Skin Sand Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+973,Sandaconda,844,Ground,72,107,125,65,70,71,510,Sand Spit Shed Skin Sand Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+974,Cramorant,845,Water Flying,70,85,55,85,95,85,475,Gulp Missile,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+975,Arrokuda,846,Water,41,63,40,40,30,66,280,Swift Swim  Propeller Tail,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+976,Barraskewda,847,Water,61,123,60,60,50,136,490,Swift Swim  Propeller Tail,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+977,Toxel,848,Electric Poison,40,38,35,54,35,40,242,Rattled  Static Klutz,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+978,Toxtricity (Amped Form),849,Electric Poison,75,98,70,114,70,75,502,Punk Rock Plus Technician,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+979,Toxtricity (Low Key Form),849,Electric Poison,75,98,70,114,70,75,502,Punk Rock Minus Technician,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+980,Sizzlipede,850,Fire Bug,50,65,45,50,50,45,305,Flash Fire White Smoke Flame Body,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+981,Centiskorch,851,Fire Bug,100,115,65,90,90,65,525,Flash Fire White Smoke Flame Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+982,Clobbopus,852,Fighting,50,68,60,50,50,32,310,Limber   Technician,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+983,Grapploct,853,Fighting,80,118,90,70,80,42,480,Limber   Technician,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+984,Sinistea,854,Ghost,40,45,45,74,54,50,308,Weak Armor  Cursed Body,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+985,Polteageist,855,Ghost,60,65,65,134,114,70,508,Weak Armor  Cursed Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+986,Hatenna,856,Psychic,42,30,45,56,53,39,265,Healer Anticipation Magic Bounce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+987,Hattrem,857,Psychic,57,40,65,86,73,49,370,Healer Anticipation Magic Bounce,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+988,Hatterene,858,Psychic Fairy,57,90,95,136,103,29,510,Healer Anticipation Magic Bounce,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+989,Impidimp,859,Dark Fairy,45,45,30,55,40,50,265,Prankster Frisk Pickpocket,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+990,Morgrem,860,Dark Fairy,65,60,45,75,55,70,370,Prankster Frisk Pickpocket,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+991,Grimmsnarl,861,Dark Fairy,95,120,65,95,75,60,510,Prankster Frisk Pickpocket,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,10 points
+992,Obstagoon,862,Dark Normal,93,90,101,60,81,95,520,Reckless Guts Defiant,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+993,Perrserker,863,Steel,70,110,100,50,60,50,440,Battle Armor Tough Claws Steely Spirit,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+994,Cursola,864,Ghost,60,95,50,145,130,30,510,Weak Armor  Perish Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+995,Sirfetch'd,865,Fighting,62,135,95,68,82,65,507,Steadfast  Scrappy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+996,Mr. Rime,866,Ice Psychic,80,85,75,110,100,70,520,Tangled Feet Screen Cleaner Ice Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+997,Runerigus,867,Ground Ghost,58,95,145,50,105,30,483,Wandering Spirit,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+998,Milcery,868,Fairy,45,40,40,50,61,34,270,Sweet Veil  Aroma Veil,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+999,Alcremie,869,Fairy,65,60,75,110,121,64,495,Sweet Veil  Aroma Veil,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+1000,Falinks,870,Fighting,65,100,100,70,60,75,470,Battle Armor  Defiant,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+1001,Pincurchin,871,Electric,48,101,95,91,85,15,435,Lightning Rod  Electric Surge,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,2 points
+1002,Snom,872,Ice Bug,30,25,35,45,30,20,185,Shield Dust  Ice Scales,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+1003,Frosmoth,873,Ice Bug,70,65,60,125,90,65,475,Shield Dust  Ice Scales,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+1004,Stonjourner,874,Rock,100,125,135,20,20,70,470,Power Spot,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,1 point
+1005,Eiscue (Noice Face),875,Ice,75,80,70,65,50,130,470,Ice Face,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+1006,Eiscue (Ice Face),875,Ice,75,80,110,65,90,50,470,Ice Face,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+1007,Indeedee (Male),876,Psychic Normal,60,65,55,105,95,95,475,Inner Focus Synchronize Psychic Surge,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,
+1008,Indeedee (Female),876,Psychic Normal,70,55,65,95,105,85,475,Own Tempo Synchronize Psychic Surge,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+1009,Morpeko,877,Electric Dark,58,95,58,70,58,97,436,Hunger Switch,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+1010,Cufant,878,Steel,72,80,49,40,49,40,330,Sheer Force  Heavy Metal,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+1011,Copperajah,879,Steel,122,130,69,80,69,30,500,Sheer Force  Heavy Metal,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+1012,Dracozolt,880,Electric Dragon,90,100,90,80,70,75,505,Volt Absorb Hustle Sand Rush,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,11 points
+1013,Arctozolt,881,Electric Ice,90,100,90,90,80,55,505,Volt Absorb Static Slush Rush,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+1014,Dracovish,882,Water Dragon,90,90,100,70,80,75,505,Water Absorb Strong Jaw Sand Rush,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,17 points
+1015,Arctovish,883,Water Ice,90,90,100,80,90,55,505,Water Absorb Ice Body Slush Rush,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,3 points
+1016,Duraludon,884,Steel Dragon,70,95,115,120,50,85,535,Light Metal Heavy Metal Stalwart,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,5 points
+1017,Dreepy,885,Ghost Dragon,28,60,30,40,30,82,270,Clear Body Infiltrator Cursed Body,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+1018,Drakloak,886,Ghost Dragon,68,80,50,60,50,102,410,Clear Body Infiltrator Cursed Body,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,
+1019,Dragapult,887,Ghost Dragon,88,120,75,100,75,142,600,Clear Body Infiltrator Cursed Body,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,17 points
+1020,Zacian (Crowned Sword),888,Fairy Steel,92,170,115,80,115,148,720,Intrepid Sword,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+1021,Zacian (Hero of Many Battles),888,Fairy,92,130,115,80,115,138,670,Intrepid Sword,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,
+1022,Zamazenta (Crowned Shield),889,Fighting Steel,92,130,145,80,145,128,720,Dauntless Shield,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+1023,Zamazenta (Hero of Many Battles),889,Fighting,92,130,115,80,115,138,670,Dauntless Shield,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,
+1024,Eternatus (Eternamax),890,Poison Dragon,255,115,250,125,250,130,1125,Pressure,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+1025,Eternatus,890,Poison Dragon,140,85,95,145,95,130,690,Pressure,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,17 points
+1026,Kubfu,891,Fighting,60,90,60,53,50,72,385,Inner Focus,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,
+1027,Urshifu (Rapid Strike Style),892,Fighting Water,100,130,100,63,60,97,550,Unseen Fist,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,
+1028,Urshifu (Single Strike Style),892,Fighting  Dark,100,130,100,63,60,97,550,Unseen Fist,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,
+1029,Zarude,893,Dark Grass,105,120,105,70,95,105,600,Leaf Guard,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,11 points
+1030,Regieleki,894,Electric,80,100,50,100,50,200,580,Transistor,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,9 points
+1031,Regidrago,895,Dragon,200,100,50,100,50,80,580,Dragon's Maw,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,7 points
+1032,Glastrier,896,Ice,100,145,130,65,110,30,580,Chilling Neigh,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,6 points
+1033,Spectrier,897,Ghost,100,65,60,145,80,130,580,Grim Neigh,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,13 points
+1034,Calyrex (Shadow Rider),898,Psychic Ghost,100,85,80,165,100,150,680,As One,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+1035,Calyrex (Ice Rider),898,Psychic Ice,100,165,150,85,130,50,680,As One,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+1036,Calyrex,898,Psychic Grass,100,80,80,80,80,80,500,Unnerve,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,
